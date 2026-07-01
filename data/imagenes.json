@@ -226,7 +226,8 @@
     "jun-uozumi": {
       "principal": "https://static.wikia.nocookie.net/slamdunk/images/d/db/Uozumi.png",
       "galeria": [
-        "https://static.wikia.nocookie.net/slamdunk/images/d/db/Uozumi.png"
+        "https://static.wikia.nocookie.net/slamdunk/images/d/db/Uozumi.png",
+        "https://cdn.myanimelist.net/images/characters/16/154261.jpg"
       ],
       "fuente": "web",
       "alt": "Jun Uozumi — Slam Dunk"
@@ -234,7 +235,9 @@
     "hiroaki-koshino": {
       "principal": "https://static.wikia.nocookie.net/slamdunk/images/a/a6/HiroakiKoshinoSlamdunk.png",
       "galeria": [
-        "https://static.wikia.nocookie.net/slamdunk/images/a/a6/HiroakiKoshinoSlamdunk.png"
+        "https://static.wikia.nocookie.net/slamdunk/images/a/a6/HiroakiKoshinoSlamdunk.png",
+        "https://cdn.myanimelist.net/images/characters/12/154963.jpg",
+        "https://cdn.myanimelist.net/images/characters/6/155173.jpg"
       ],
       "fuente": "web",
       "alt": "Hiroaki Koshino — Slam Dunk"
@@ -246,6 +249,121 @@
       ],
       "fuente": "web",
       "alt": "Eiji Sawakita — Slam Dunk"
+    },
+    "minori-kishimoto": {
+      "principal": "https://cdn.myanimelist.net/images/characters/9/156413.jpg",
+      "galeria": [
+        "https://cdn.myanimelist.net/images/characters/9/156413.jpg",
+        "https://cdn.myanimelist.net/images/characters/12/292305.jpg"
+      ],
+      "fuente": "jikan",
+      "alt": "Minori Kishimoto — Slam Dunk"
+    },
+    "ryoji-ikegami": {
+      "principal": "https://cdn.myanimelist.net/images/characters/16/24638.jpg",
+      "galeria": [
+        "https://cdn.myanimelist.net/images/characters/16/24638.jpg",
+        "https://cdn.myanimelist.net/images/characters/14/154241.jpg"
+      ],
+      "fuente": "jikan",
+      "alt": "Ryoji Ikegami — Slam Dunk"
+    },
+    "tomoyuki-uekusa": {
+      "principal": "https://cdn.myanimelist.net/images/characters/3/24640.jpg",
+      "galeria": [
+        "https://cdn.myanimelist.net/images/characters/3/24640.jpg"
+      ],
+      "fuente": "jikan",
+      "alt": "Tomoyuki Uekusa — Slam Dunk"
+    },
+    "moichi-taoka": {
+      "principal": "https://cdn.myanimelist.net/images/characters/2/24642.jpg",
+      "galeria": [
+        "https://cdn.myanimelist.net/images/characters/2/24642.jpg",
+        "https://cdn.myanimelist.net/images/characters/11/154263.jpg"
+      ],
+      "fuente": "jikan",
+      "alt": "Moichi Taoka — Slam Dunk"
+    },
+    "kazuma-takasago": {
+      "principal": "https://cdn.myanimelist.net/images/characters/3/156489.jpg",
+      "galeria": [
+        "https://cdn.myanimelist.net/images/characters/3/156489.jpg"
+      ],
+      "fuente": "jikan",
+      "alt": "Kazuma Takasago — Slam Dunk"
+    },
+    "yoshinori-miyamasu": {
+      "principal": "https://cdn.myanimelist.net/images/characters/13/156491.jpg",
+      "galeria": [
+        "https://cdn.myanimelist.net/images/characters/13/156491.jpg"
+      ],
+      "fuente": "jikan",
+      "alt": "Yoshinori Miyamasu — Slam Dunk"
+    },
+    "tadashi-muto": {
+      "principal": "https://cdn.myanimelist.net/images/characters/3/156487.jpg",
+      "galeria": [
+        "https://cdn.myanimelist.net/images/characters/3/156487.jpg"
+      ],
+      "fuente": "jikan",
+      "alt": "Tadashi Muto — Slam Dunk"
+    },
+    "riki-takato": {
+      "principal": "https://cdn.myanimelist.net/images/characters/13/156485.jpg",
+      "galeria": [
+        "https://cdn.myanimelist.net/images/characters/13/156485.jpg"
+      ],
+      "fuente": "jikan",
+      "alt": "Riki Takato — Slam Dunk"
+    },
+    "taku-ito": {
+      "principal": "https://cdn.myanimelist.net/images/characters/10/156477.jpg",
+      "galeria": [
+        "https://cdn.myanimelist.net/images/characters/10/156477.jpg"
+      ],
+      "fuente": "jikan",
+      "alt": "Taku Ito — Slam Dunk"
+    },
+    "mitsuru-nagano": {
+      "principal": "https://cdn.myanimelist.net/images/characters/6/156481.jpg",
+      "galeria": [
+        "https://cdn.myanimelist.net/images/characters/6/156481.jpg"
+      ],
+      "fuente": "jikan",
+      "alt": "Mitsuru Nagano — Slam Dunk"
+    },
+    "shoichi-takano": {
+      "principal": "https://cdn.myanimelist.net/images/characters/11/156479.jpg",
+      "galeria": [
+        "https://cdn.myanimelist.net/images/characters/11/156479.jpg"
+      ],
+      "fuente": "jikan",
+      "alt": "Shoichi Takano — Slam Dunk"
+    },
+    "kazunari-fukatsu": {
+      "principal": "https://cdn.myanimelist.net/images/characters/2/284365.jpg",
+      "galeria": [
+        "https://cdn.myanimelist.net/images/characters/2/284365.jpg"
+      ],
+      "fuente": "jikan",
+      "alt": "Kazunari Fukatsu — Slam Dunk"
+    },
+    "minoru-matsumoto": {
+      "principal": "https://cdn.myanimelist.net/images/characters/11/284367.jpg",
+      "galeria": [
+        "https://cdn.myanimelist.net/images/characters/11/284367.jpg"
+      ],
+      "fuente": "jikan",
+      "alt": "Minoru Matsumoto — Slam Dunk"
+    },
+    "satoshi-ichinokura": {
+      "principal": "https://cdn.myanimelist.net/images/characters/11/284368.jpg",
+      "galeria": [
+        "https://cdn.myanimelist.net/images/characters/11/284368.jpg"
+      ],
+      "fuente": "jikan",
+      "alt": "Satoshi Ichinokura — Slam Dunk"
     }
   },
   "equipos": {

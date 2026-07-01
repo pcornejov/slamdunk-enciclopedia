@@ -52,6 +52,18 @@ export interface Arco {
   equipos?: string[];
 }
 
+export interface Partido {
+  slug: string;
+  titulo: string;
+  torneo: string;
+  local: string;
+  visitante: string;
+  resultado: string;
+  orden: number;
+  resumen: string;
+  arco?: string;
+}
+
 export interface Locacion {
   slug: string;
   nombre: string;
@@ -122,6 +134,16 @@ export function getArcos(): Arco[] {
 
 export function getArco(slug: string): Arco | undefined {
   return getArcos().find((a) => a.slug === slug);
+}
+
+export function getPartidos(): Partido[] {
+  return leerJson<Partido[]>("partidos.json", []).sort(
+    (a, b) => a.orden - b.orden,
+  );
+}
+
+export function getPartido(slug: string): Partido | undefined {
+  return getPartidos().find((p) => p.slug === slug);
 }
 
 export function getLocaciones(): Locacion[] {

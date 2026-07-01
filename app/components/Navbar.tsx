@@ -5,6 +5,7 @@ const enlaces = [
   { href: "/personajes", texto: "Personajes" },
   { href: "/equipos", texto: "Equipos" },
   { href: "/arcos", texto: "Arcos" },
+  { href: "/partidos", texto: "Partidos" },
   { href: "/manga", texto: "Manga" },
   { href: "/anime", texto: "Anime" },
   { href: "/locaciones", texto: "Locaciones" },

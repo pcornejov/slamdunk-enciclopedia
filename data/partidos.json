@@ -1,0 +1,57 @@
+[
+  {
+    "slug": "shohoku-vs-shoyo",
+    "titulo": "Shohoku vs Shoyo",
+    "torneo": "Torneo de la Prefectura de Kanagawa",
+    "local": "shohoku",
+    "visitante": "shoyo",
+    "resultado": "Shohoku 62 - 60 Shoyo",
+    "orden": 1,
+    "resumen": "Uno de los primeros grandes exámenes de Shohoku ante un histórico subcampeón de Kanagawa. Shoyo, dirigido desde la cancha por el base-entrenador Fujima, presume de una plantilla alta y técnica encabezada por el as Kiminobu Hasegawa y el pívot Toru Hanagata. Akagi se reivindica frente a rivales de su tamaño y Sakuragi, pese a su inexperiencia, aporta rebotes y energía decisivos. Rukawa confirma su enorme talento individual llevando el peso ofensivo. La victoria coloca a Shohoku entre los grandes de la prefectura y anuncia su ascenso.",
+    "arco": "torneo-prefectural"
+  },
+  {
+    "slug": "shohoku-vs-kainan",
+    "titulo": "Shohoku vs Kainan",
+    "torneo": "Torneo de la Prefectura de Kanagawa",
+    "local": "shohoku",
+    "visitante": "kainan",
+    "resultado": "Kainan 90 - 88 Shohoku",
+    "orden": 2,
+    "resumen": "El choque contra el rey indiscutible de Kanagawa y su líder Shinichi Maki, el mejor jugador de la prefectura. En pleno partido, Akagi sufre una lesión en el tobillo que obliga al equipo a resistir sin su capitán durante minutos clave. Shohoku firma una remontada heroica y llega a rozar la hazaña en los segundos finales. Un tiro fallado y la profundidad de banquillo de Kainan deciden el duelo por el margen más ajustado. La derrota, dolorosa, enseña a Shohoku lo que cuesta vencer a la élite.",
+    "arco": "shohoku-vs-kainan"
+  },
+  {
+    "slug": "shohoku-vs-ryonan-interescolar",
+    "titulo": "Shohoku vs Ryonan (Interescolar)",
+    "torneo": "Torneo de la Prefectura de Kanagawa",
+    "local": "shohoku",
+    "visitante": "ryonan",
+    "resultado": "",
+    "orden": 3,
+    "resumen": "Con el último billete de Kanagawa para el campeonato nacional en juego, Shohoku y Ryonan lo apuestan todo en un partido épico. Akira Sendoh, el as de Ryonan, obliga a Rukawa a dar un salto de nivel en el duelo de talentos de la prefectura. Sakuragi crece como reboteador dominante y neutraliza el juego interior rival en los momentos decisivos. El equipo entero se vacía para superar la resistencia de Uozumi y compañía. Con la victoria, Shohoku sella su pase al nacional y cumple el sueño de Akagi.",
+    "arco": "shohoku-vs-ryonan"
+  },
+  {
+    "slug": "shohoku-vs-toyotama",
+    "titulo": "Shohoku vs Toyotama",
+    "torneo": "Campeonato Nacional (Inter-High)",
+    "local": "shohoku",
+    "visitante": "toyotama",
+    "resultado": "",
+    "orden": 4,
+    "resumen": "Ya en el torneo nacional celebrado en Hiroshima, Shohoku se mide al vertiginoso Toyotama de Osaka, liderado por Kenji Minami. El estilo run-and-gun del rival somete a Shohoku a un ritmo altísimo y a un juego físico y provocador. El banquillo y los ajustes tácticos resultan clave para frenar la avalancha ofensiva de Osaka. Rukawa se destapa como anotador determinante en la segunda mitad. El intenso partido templa a Shohoku de cara al desafío definitivo del campeonato.",
+    "arco": "nacional-toyotama"
+  },
+  {
+    "slug": "shohoku-vs-sannoh",
+    "titulo": "Shohoku vs Sannoh",
+    "torneo": "Campeonato Nacional (Inter-High)",
+    "local": "shohoku",
+    "visitante": "sannoh",
+    "resultado": "Shohoku 79 - 78 Sannoh",
+    "orden": 5,
+    "resumen": "El clímax absoluto de la serie: Shohoku contra Sannoh Kogyo, el campeón nacional y considerado el mejor equipo de instituto de Japón. Con Sawakita y los hermanos Kawata, Sannoh abre una brecha aparentemente insalvable en la primera mitad. Shohoku responde con una remontada legendaria en la que cada jugador da lo mejor de sí. Rukawa y Sakuragi dejan atrás su rivalidad para conectar en la jugada decisiva. La canasta final de Sakuragi, sobre la bocina, corona uno de los partidos más recordados de todo el manga deportivo.",
+    "arco": "nacional-sannoh"
+  }
+]
