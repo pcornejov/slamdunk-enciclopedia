@@ -1,0 +1,31 @@
+[
+  { "slug": "hanamichi-sakuragi", "nombre": "Hanamichi Sakuragi", "nombreJp": "桜木花道", "equipo": "shohoku", "posicion": "Alero-pívot (PF)", "dorsal": 10, "altura": "189,2 cm", "rol": "Protagonista", "malId": 310, "destacado": true, "bio": "" },
+  { "slug": "kaede-rukawa", "nombre": "Kaede Rukawa", "nombreJp": "流川楓", "equipo": "shohoku", "posicion": "Alero (SF)", "dorsal": 11, "altura": "187 cm", "rol": "Protagonista", "malId": 311, "destacado": true, "bio": "" },
+  { "slug": "takenori-akagi", "nombre": "Takenori Akagi", "nombreJp": "赤木剛憲", "equipo": "shohoku", "posicion": "Pívot (C)", "dorsal": 4, "altura": "197 cm", "rol": "Capitán", "malId": 314, "destacado": true, "bio": "" },
+  { "slug": "ryota-miyagi", "nombre": "Ryota Miyagi", "nombreJp": "宮城リョータ", "equipo": "shohoku", "posicion": "Base (PG)", "dorsal": 7, "altura": "168 cm", "rol": "Titular", "malId": 312, "destacado": true, "bio": "" },
+  { "slug": "hisashi-mitsui", "nombre": "Hisashi Mitsui", "nombreJp": "三井寿", "equipo": "shohoku", "posicion": "Escolta (SG)", "dorsal": 14, "altura": "184 cm", "rol": "Titular", "malId": 313, "destacado": true, "bio": "" },
+  { "slug": "kiminobu-kogure", "nombre": "Kiminobu Kogure", "nombreJp": "木暮公延", "equipo": "shohoku", "posicion": "Alero (SF)", "dorsal": 5, "altura": "178 cm", "rol": "Subcapitán", "malId": 8451, "destacado": false, "bio": "" },
+  { "slug": "mitsuyoshi-anzai", "nombre": "Mitsuyoshi Anzai", "nombreJp": "安西光義", "equipo": "shohoku", "posicion": "Entrenador", "dorsal": null, "altura": null, "rol": "Entrenador", "malId": 12862, "destacado": true, "bio": "" },
+  { "slug": "ayako", "nombre": "Ayako", "nombreJp": "彩子", "equipo": "shohoku", "posicion": "Mánager", "dorsal": null, "altura": null, "rol": "Mánager", "malId": 23827, "destacado": false, "bio": "" },
+  { "slug": "haruko-akagi", "nombre": "Haruko Akagi", "nombreJp": "赤木晴子", "equipo": "shohoku", "posicion": "Club de baloncesto", "dorsal": null, "altura": null, "rol": "Personaje principal", "malId": 8485, "destacado": true, "bio": "" },
+  { "slug": "yohei-mito", "nombre": "Yohei Mito", "nombreJp": "水戸洋平", "equipo": "shohoku", "posicion": "Amigo de Sakuragi", "dorsal": null, "altura": null, "rol": "Secundario", "malId": 9721, "destacado": false, "bio": "" },
+
+  { "slug": "akira-sendoh", "nombre": "Akira Sendoh", "nombreJp": "仙道彰", "equipo": "ryonan", "posicion": "Alero / Base (SF/PG)", "dorsal": 7, "altura": "190 cm", "rol": "As de Ryonan", "malId": 3403, "destacado": true, "bio": "" },
+  { "slug": "jun-uozumi", "nombre": "Jun Uozumi", "nombreJp": "魚住純", "equipo": "ryonan", "posicion": "Pívot (C)", "dorsal": 4, "altura": "197 cm", "rol": "Capitán", "malId": null, "destacado": false, "bio": "" },
+  { "slug": "kicchou-fukuda", "nombre": "Kicchou Fukuda", "nombreJp": "福田吉兆", "equipo": "ryonan", "posicion": "Ala-pívot (PF)", "dorsal": 8, "altura": "184 cm", "rol": "Titular", "malId": 12863, "destacado": false, "bio": "" },
+  { "slug": "hiroaki-koshino", "nombre": "Hiroaki Koshino", "nombreJp": "越野宏明", "equipo": "ryonan", "posicion": "Base (PG)", "dorsal": 6, "altura": "175 cm", "rol": "Titular", "malId": null, "destacado": false, "bio": "" },
+  { "slug": "hikoichi-aida", "nombre": "Hikoichi Aida", "nombreJp": "相田彦一", "equipo": "ryonan", "posicion": "Analista / Mánager", "dorsal": null, "altura": null, "rol": "Secundario", "malId": 12869, "destacado": false, "bio": "" },
+
+  { "slug": "shinichi-maki", "nombre": "Shinichi Maki", "nombreJp": "牧紳一", "equipo": "kainan", "posicion": "Base (PG)", "dorsal": 4, "altura": "184 cm", "rol": "Capitán", "malId": 12798, "destacado": true, "bio": "" },
+  { "slug": "soichiro-jin", "nombre": "Soichiro Jin", "nombreJp": "神宗一郎", "equipo": "kainan", "posicion": "Escolta (SG)", "dorsal": 5, "altura": "183 cm", "rol": "Tirador", "malId": 13038, "destacado": false, "bio": "" },
+  { "slug": "nobunaga-kiyota", "nombre": "Nobunaga Kiyota", "nombreJp": "清田信長", "equipo": "kainan", "posicion": "Alero (SF)", "dorsal": 6, "altura": "180 cm", "rol": "Titular", "malId": 8389, "destacado": false, "bio": "" },
+
+  { "slug": "kenji-fujima", "nombre": "Kenji Fujima", "nombreJp": "藤真健司", "equipo": "shoyo", "posicion": "Base (PG)", "dorsal": 4, "altura": "178 cm", "rol": "Capitán y entrenador", "malId": 12799, "destacado": true, "bio": "" },
+  { "slug": "toru-hanagata", "nombre": "Toru Hanagata", "nombreJp": "花形透", "equipo": "shoyo", "posicion": "Pívot (C)", "dorsal": 5, "altura": "197 cm", "rol": "Titular", "malId": 8450, "destacado": false, "bio": "" },
+
+  { "slug": "masashi-kawata", "nombre": "Masashi Kawata", "nombreJp": "河田雅史", "equipo": "sannoh", "posicion": "Pívot (C)", "dorsal": 6, "altura": "190 cm", "rol": "Capitán", "malId": 129818, "destacado": true, "bio": "" },
+  { "slug": "mikio-kawata", "nombre": "Mikio Kawata", "nombreJp": "河田美紀男", "equipo": "sannoh", "posicion": "Pívot (C)", "dorsal": 8, "altura": "200 cm", "rol": "Suplente", "malId": 129820, "destacado": false, "bio": "" },
+  { "slug": "eiji-sawakita", "nombre": "Eiji Sawakita", "nombreJp": "沢北栄治", "equipo": "sannoh", "posicion": "Alero (SF)", "dorsal": 9, "altura": "188 cm", "rol": "As de Sannoh", "malId": null, "destacado": true, "bio": "" },
+
+  { "slug": "tsuyoshi-minami", "nombre": "Tsuyoshi Minami", "nombreJp": "南烈", "equipo": "toyotama", "posicion": "Alero (SF)", "dorsal": 4, "altura": "184 cm", "rol": "As de Toyotama", "malId": 129815, "destacado": false, "bio": "" }
+]

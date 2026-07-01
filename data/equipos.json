@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "shohoku",
+    "nombre": "Shohoku",
+    "nombreJp": "湘北高校",
+    "color": "#D7263D",
+    "prefectura": "Kanagawa",
+    "descripcion": "",
+    "destacado": true
+  },
+  {
+    "slug": "ryonan",
+    "nombre": "Ryonan",
+    "nombreJp": "陵南高校",
+    "color": "#2E86AB",
+    "prefectura": "Kanagawa",
+    "descripcion": "",
+    "destacado": true
+  },
+  {
+    "slug": "kainan",
+    "nombre": "Kainan Dai Fuzoku",
+    "nombreJp": "海南大附属高校",
+    "color": "#F4A300",
+    "prefectura": "Kanagawa",
+    "descripcion": "",
+    "destacado": true
+  },
+  {
+    "slug": "shoyo",
+    "nombre": "Shoyo",
+    "nombreJp": "翔陽高校",
+    "color": "#2A9D8F",
+    "prefectura": "Kanagawa",
+    "descripcion": "",
+    "destacado": true
+  },
+  {
+    "slug": "sannoh",
+    "nombre": "Sannoh Kogyo",
+    "nombreJp": "山王工業高校",
+    "color": "#8B0000",
+    "prefectura": "Akita",
+    "descripcion": "",
+    "destacado": true
+  },
+  {
+    "slug": "toyotama",
+    "nombre": "Toyotama",
+    "nombreJp": "豊玉高校",
+    "color": "#6A4C93",
+    "prefectura": "Osaka",
+    "descripcion": "",
+    "destacado": false
+  }
+]

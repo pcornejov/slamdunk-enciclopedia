@@ -1,0 +1,6 @@
+{
+  "_descripcion": "Manifiesto de imágenes. Propiedad EXCLUSIVA del Agente de Imágenes. Clave = slug de personaje/equipo/locación. Valor = { principal, galeria:[urls], fuente, alt }.",
+  "personajes": {},
+  "equipos": {},
+  "locaciones": {}
+}

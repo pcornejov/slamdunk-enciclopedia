@@ -1,0 +1,658 @@
+[
+  {
+    "malId": 310,
+    "nombreOriginal": "Sakuragi, Hanamichi",
+    "rol": "Main",
+    "favoritos": 8817,
+    "imagen": "https://cdn.myanimelist.net/images/characters/7/314546.jpg?s=18194f37df5a252b1290803c5927d579",
+    "url": "https://myanimelist.net/character/310/Hanamichi_Sakuragi"
+  },
+  {
+    "malId": 313,
+    "nombreOriginal": "Mitsui, Hisashi",
+    "rol": "Main",
+    "favoritos": 1142,
+    "imagen": "https://cdn.myanimelist.net/images/characters/10/95008.jpg?s=61a3c39c99ac0674f51477d82408196e",
+    "url": "https://myanimelist.net/character/313/Hisashi_Mitsui"
+  },
+  {
+    "malId": 312,
+    "nombreOriginal": "Miyagi, Ryouta",
+    "rol": "Main",
+    "favoritos": 925,
+    "imagen": "https://cdn.myanimelist.net/images/characters/3/58146.jpg?s=46138fac56cace72bced38bae8051ef2",
+    "url": "https://myanimelist.net/character/312/Ryouta_Miyagi"
+  },
+  {
+    "malId": 311,
+    "nombreOriginal": "Rukawa, Kaede",
+    "rol": "Main",
+    "favoritos": 806,
+    "imagen": "https://cdn.myanimelist.net/images/characters/3/47093.jpg?s=16352e58c8241b74f20eae8dceb1de7d",
+    "url": "https://myanimelist.net/character/311/Kaede_Rukawa"
+  },
+  {
+    "malId": 3403,
+    "nombreOriginal": "Sendou, Akira",
+    "rol": "Supporting",
+    "favoritos": 376,
+    "imagen": "https://cdn.myanimelist.net/images/characters/7/79624.jpg?s=1ba5a13fb047e392813d4bd91db26ced",
+    "url": "https://myanimelist.net/character/3403/Akira_Sendou"
+  },
+  {
+    "malId": 314,
+    "nombreOriginal": "Akagi, Takenori",
+    "rol": "Main",
+    "favoritos": 215,
+    "imagen": "https://cdn.myanimelist.net/images/characters/6/512342.jpg?s=c89119576332c12a04505c20c09bf15a",
+    "url": "https://myanimelist.net/character/314/Takenori_Akagi"
+  },
+  {
+    "malId": 9721,
+    "nombreOriginal": "Mito, Youhei",
+    "rol": "Supporting",
+    "favoritos": 114,
+    "imagen": "https://cdn.myanimelist.net/images/characters/3/285971.jpg?s=f6ea04e9b650df169638834ec450a117",
+    "url": "https://myanimelist.net/character/9721/Youhei_Mito"
+  },
+  {
+    "malId": 12862,
+    "nombreOriginal": "Anzai, Mitsuyoshi",
+    "rol": "Supporting",
+    "favoritos": 96,
+    "imagen": "https://cdn.myanimelist.net/images/characters/6/77865.jpg?s=5580b36ae1dad0eb06e967c635269ef4",
+    "url": "https://myanimelist.net/character/12862/Mitsuyoshi_Anzai"
+  },
+  {
+    "malId": 8485,
+    "nombreOriginal": "Akagi, Haruko",
+    "rol": "Supporting",
+    "favoritos": 84,
+    "imagen": "https://cdn.myanimelist.net/images/characters/13/58145.jpg?s=733a485d6184f1c133221936792a90ff",
+    "url": "https://myanimelist.net/character/8485/Haruko_Akagi"
+  },
+  {
+    "malId": 23827,
+    "nombreOriginal": "Ayako",
+    "rol": "Supporting",
+    "favoritos": 50,
+    "imagen": "https://cdn.myanimelist.net/images/characters/3/58138.jpg?s=d1dc78c26df186b1aad631d15b39356e",
+    "url": "https://myanimelist.net/character/23827/Ayako"
+  },
+  {
+    "malId": 12799,
+    "nombreOriginal": "Fujima, Kenji",
+    "rol": "Supporting",
+    "favoritos": 30,
+    "imagen": "https://cdn.myanimelist.net/images/characters/12/292303.jpg?s=6250320f3b8da57055f4f9230e591ee1",
+    "url": "https://myanimelist.net/character/12799/Kenji_Fujima"
+  },
+  {
+    "malId": 8451,
+    "nombreOriginal": "Kogure, Kiminobu",
+    "rol": "Supporting",
+    "favoritos": 25,
+    "imagen": "https://cdn.myanimelist.net/images/characters/5/368858.jpg?s=771981eafe9a447e4b67f70d07e5a583",
+    "url": "https://myanimelist.net/character/8451/Kiminobu_Kogure"
+  },
+  {
+    "malId": 12798,
+    "nombreOriginal": "Maki, Shinichi",
+    "rol": "Supporting",
+    "favoritos": 23,
+    "imagen": "https://cdn.myanimelist.net/images/characters/6/292308.jpg?s=f5560017b7a841fea1248ae9ee0c8749",
+    "url": "https://myanimelist.net/character/12798/Shinichi_Maki"
+  },
+  {
+    "malId": 8389,
+    "nombreOriginal": "Kiyota, Nobunaga",
+    "rol": "Supporting",
+    "favoritos": 10,
+    "imagen": "https://cdn.myanimelist.net/images/characters/15/292306.jpg?s=84be6386293b574c2bd2c7624e02ce5a",
+    "url": "https://myanimelist.net/character/8389/Nobunaga_Kiyota"
+  },
+  {
+    "malId": 57279,
+    "nombreOriginal": "Doctor T.",
+    "rol": "Supporting",
+    "favoritos": 9,
+    "imagen": "https://cdn.myanimelist.net/images/characters/8/156417.jpg?s=6a4253e9e999abfab941c5f837bd957d",
+    "url": "https://myanimelist.net/character/57279/Doctor_T"
+  },
+  {
+    "malId": 12863,
+    "nombreOriginal": "Fukuda, Kicchou",
+    "rol": "Supporting",
+    "favoritos": 8,
+    "imagen": "https://cdn.myanimelist.net/images/characters/5/328284.jpg?s=e322bfa33bbbf3bc423fbd6d2be03c29",
+    "url": "https://myanimelist.net/character/12863/Kicchou_Fukuda"
+  },
+  {
+    "malId": 13038,
+    "nombreOriginal": "Jin, Souichirou",
+    "rol": "Supporting",
+    "favoritos": 7,
+    "imagen": "https://cdn.myanimelist.net/images/characters/4/154891.jpg?s=41f1556903f0bec22da14cce33a9c1ef",
+    "url": "https://myanimelist.net/character/13038/Souichirou_Jin"
+  },
+  {
+    "malId": 12869,
+    "nombreOriginal": "Aida, Hikoichi",
+    "rol": "Supporting",
+    "favoritos": 5,
+    "imagen": "https://cdn.myanimelist.net/images/characters/2/24643.jpg?s=cb7f40868d556f40d192454194ee2853",
+    "url": "https://myanimelist.net/character/12869/Hikoichi_Aida"
+  },
+  {
+    "malId": 13686,
+    "nombreOriginal": "Takamiya, Nozomi",
+    "rol": "Supporting",
+    "favoritos": 4,
+    "imagen": "https://cdn.myanimelist.net/images/characters/16/337042.jpg?s=2922e8d81fb2ac5c9c7bbce6b215abc1",
+    "url": "https://myanimelist.net/character/13686/Nozomi_Takamiya"
+  },
+  {
+    "malId": 8450,
+    "nombreOriginal": "Hanagata, Toru",
+    "rol": "Supporting",
+    "favoritos": 3,
+    "imagen": "https://cdn.myanimelist.net/images/characters/10/292304.jpg?s=e8e8926be8028af4f64c16305382e37e",
+    "url": "https://myanimelist.net/character/8450/Toru_Hanagata"
+  },
+  {
+    "malId": 129815,
+    "nombreOriginal": "Minami, Tsuyoshi",
+    "rol": "Supporting",
+    "favoritos": 3,
+    "imagen": "https://cdn.myanimelist.net/images/characters/11/284359.jpg?s=6e14c6b7be5d3600b382d61bbe258640",
+    "url": "https://myanimelist.net/character/129815/Tsuyoshi_Minami"
+  },
+  {
+    "malId": 13688,
+    "nombreOriginal": "Noma, Chuuichirou",
+    "rol": "Supporting",
+    "favoritos": 3,
+    "imagen": "https://cdn.myanimelist.net/images/characters/10/337041.jpg?s=cbb3b605076f66ea7b47c5dbe0aaf433",
+    "url": "https://myanimelist.net/character/13688/Chuuichirou_Noma"
+  },
+  {
+    "malId": 129821,
+    "nombreOriginal": "Fukatsu, Kazunari",
+    "rol": "Supporting",
+    "favoritos": 2,
+    "imagen": "https://cdn.myanimelist.net/images/characters/2/284365.jpg?s=ff863c59ae9ffb55e95eb704b3857748",
+    "url": "https://myanimelist.net/character/129821/Kazunari_Fukatsu"
+  },
+  {
+    "malId": 57381,
+    "nombreOriginal": "Kawai, Mari",
+    "rol": "Supporting",
+    "favoritos": 2,
+    "imagen": "https://cdn.myanimelist.net/images/characters/8/156519.jpg?s=b84c91241168f2f12e8323f55fe99734",
+    "url": "https://myanimelist.net/character/57381/Mari_Kawai"
+  },
+  {
+    "malId": 129820,
+    "nombreOriginal": "Kawata, Mikio",
+    "rol": "Supporting",
+    "favoritos": 2,
+    "imagen": "https://cdn.myanimelist.net/images/characters/4/284364.jpg?s=2b6a2c823ecd1eb0941eecae95f015bd",
+    "url": "https://myanimelist.net/character/129820/Mikio_Kawata"
+  },
+  {
+    "malId": 129818,
+    "nombreOriginal": "Kawata, Masashi",
+    "rol": "Supporting",
+    "favoritos": 2,
+    "imagen": "https://cdn.myanimelist.net/images/characters/4/284362.jpg?s=710244897f9c5f22a0b9bc48464973b9",
+    "url": "https://myanimelist.net/character/129818/Masashi_Kawata"
+  },
+  {
+    "malId": 57385,
+    "nombreOriginal": "Aota, Tatsuhiko",
+    "rol": "Supporting",
+    "favoritos": 1,
+    "imagen": "https://cdn.myanimelist.net/images/characters/3/156523.jpg?s=e68c8de8ec0d73301ba3acd432c4039b",
+    "url": "https://myanimelist.net/character/57385/Tatsuhiko_Aota"
+  },
+  {
+    "malId": 57351,
+    "nombreOriginal": "Hasegawa, Kazushi",
+    "rol": "Supporting",
+    "favoritos": 1,
+    "imagen": "https://cdn.myanimelist.net/images/characters/13/592877.jpg?s=e36b5a6b4160d262f3b077a16eed1bbe",
+    "url": "https://myanimelist.net/character/57351/Kazushi_Hasegawa"
+  },
+  {
+    "malId": 129824,
+    "nombreOriginal": "Ichinokura, Satoshi",
+    "rol": "Supporting",
+    "favoritos": 1,
+    "imagen": "https://cdn.myanimelist.net/images/characters/11/284368.jpg?s=bba3b3c5a4520b6d88be7e99134b6ce2",
+    "url": "https://myanimelist.net/character/129824/Satoshi_Ichinokura"
+  },
+  {
+    "malId": 57395,
+    "nombreOriginal": "Kakuta, Satoru",
+    "rol": "Supporting",
+    "favoritos": 1,
+    "imagen": "https://cdn.myanimelist.net/images/characters/7/156533.jpg?s=2e2cf04d61512aac6af70a5bb080c519",
+    "url": "https://myanimelist.net/character/57395/Satoru_Kakuta"
+  },
+  {
+    "malId": 57319,
+    "nombreOriginal": "Tetsuo",
+    "rol": "Supporting",
+    "favoritos": 1,
+    "imagen": "https://cdn.myanimelist.net/images/characters/10/156451.jpg?s=ee32a60c9a3947ec9962b1c41a741ddc",
+    "url": "https://myanimelist.net/character/57319/Tetsuo"
+  },
+  {
+    "malId": 12867,
+    "nombreOriginal": "Uozumi, Jun",
+    "rol": "Supporting",
+    "favoritos": 1,
+    "imagen": "https://cdn.myanimelist.net/images/characters/16/154261.jpg?s=05e8d70940aa24ea82971323c0e25888",
+    "url": "https://myanimelist.net/character/12867/Jun_Uozumi"
+  },
+  {
+    "malId": 57399,
+    "nombreOriginal": "Yasuda, Yasuharu",
+    "rol": "Supporting",
+    "favoritos": 1,
+    "imagen": "https://cdn.myanimelist.net/images/characters/9/156537.jpg?s=b8b9e0a0d95a48ef18afd9c3d6d0051f",
+    "url": "https://myanimelist.net/character/57399/Yasuharu_Yasuda"
+  },
+  {
+    "malId": 57373,
+    "nombreOriginal": "Aida, Yayoi",
+    "rol": "Supporting",
+    "favoritos": 0,
+    "imagen": "https://cdn.myanimelist.net/images/characters/10/156511.jpg?s=d2d6634d0e81e4cf1f9b4b5e66cb8b2f",
+    "url": "https://myanimelist.net/character/57373/Yayoi_Aida"
+  },
+  {
+    "malId": 57379,
+    "nombreOriginal": "Anzai, Fujin",
+    "rol": "Supporting",
+    "favoritos": 0,
+    "imagen": "https://cdn.myanimelist.net/images/characters/9/156517.jpg?s=19d21224140a49e0e8f2b46050763eb0",
+    "url": "https://myanimelist.net/character/57379/Fujin_Anzai"
+  },
+  {
+    "malId": 57339,
+    "nombreOriginal": "Araki, Kazuo",
+    "rol": "Supporting",
+    "favoritos": 0,
+    "imagen": "https://cdn.myanimelist.net/images/characters/15/156471.jpg?s=c942a3d2a14c10e55c347e0dd6925986",
+    "url": "https://myanimelist.net/character/57339/Kazuo_Araki"
+  },
+  {
+    "malId": 57389,
+    "nombreOriginal": "Fujii",
+    "rol": "Supporting",
+    "favoritos": 0,
+    "imagen": "https://cdn.myanimelist.net/images/characters/3/156527.jpg?s=446ee7b0e9c7b72b09b24a7d07b9df43",
+    "url": "https://myanimelist.net/character/57389/Fujii"
+  },
+  {
+    "malId": 57333,
+    "nombreOriginal": "Harada",
+    "rol": "Supporting",
+    "favoritos": 0,
+    "imagen": "https://cdn.myanimelist.net/images/characters/7/156465.jpg?s=d3f3b89d0d43c4a2136e4c7e63311e0a",
+    "url": "https://myanimelist.net/character/57333/Harada"
+  },
+  {
+    "malId": 57323,
+    "nombreOriginal": "Hayama",
+    "rol": "Supporting",
+    "favoritos": 0,
+    "imagen": "https://cdn.myanimelist.net/images/characters/2/156455.jpg?s=d10c50b97af5483eadf46b18985b956e",
+    "url": "https://myanimelist.net/character/57323/Hayama"
+  },
+  {
+    "malId": 57383,
+    "nombreOriginal": "Hotta, Norio",
+    "rol": "Supporting",
+    "favoritos": 0,
+    "imagen": "https://cdn.myanimelist.net/images/characters/16/156521.jpg?s=5e22ba310e06415e30adece3093da2dc",
+    "url": "https://myanimelist.net/character/57383/Norio_Hotta"
+  },
+  {
+    "malId": 12864,
+    "nombreOriginal": "Ikegami, Ryoji",
+    "rol": "Supporting",
+    "favoritos": 0,
+    "imagen": "https://cdn.myanimelist.net/images/characters/14/154241.jpg?s=94eda7255d87240a9bac7a901c473d2e",
+    "url": "https://myanimelist.net/character/12864/Ryoji_Ikegami"
+  },
+  {
+    "malId": 57393,
+    "nombreOriginal": "Ishii, Kentarou",
+    "rol": "Supporting",
+    "favoritos": 0,
+    "imagen": "https://cdn.myanimelist.net/images/characters/3/156531.jpg?s=35098bd6c0b0479638a35dc0f1c0a1a3",
+    "url": "https://myanimelist.net/character/57393/Kentarou_Ishii"
+  },
+  {
+    "malId": 129816,
+    "nombreOriginal": "Itakura, Daijirou",
+    "rol": "Supporting",
+    "favoritos": 0,
+    "imagen": "https://cdn.myanimelist.net/images/characters/13/284360.jpg?s=8a6898617753d30a98ec2e79111aa6ae",
+    "url": "https://myanimelist.net/character/129816/Daijirou_Itakura"
+  },
+  {
+    "malId": 57345,
+    "nombreOriginal": "Itou, Taku",
+    "rol": "Supporting",
+    "favoritos": 0,
+    "imagen": "https://cdn.myanimelist.net/images/characters/10/156477.jpg?s=89cbb425937e79e666b171647768a8c9",
+    "url": "https://myanimelist.net/character/57345/Taku_Itou"
+  },
+  {
+    "malId": 57271,
+    "nombreOriginal": "Karasawa, Kazuo",
+    "rol": "Supporting",
+    "favoritos": 0,
+    "imagen": "https://cdn.myanimelist.net/images/characters/4/156409.jpg?s=646c312d7487d6c19ef7fef14cb2d55f",
+    "url": "https://myanimelist.net/character/57271/Kazuo_Karasawa"
+  },
+  {
+    "malId": 57275,
+    "nombreOriginal": "Kishimoto, Minori",
+    "rol": "Supporting",
+    "favoritos": 0,
+    "imagen": "https://cdn.myanimelist.net/images/characters/9/156413.jpg?s=67567a5e5a6779eb3a964797c9d23920",
+    "url": "https://myanimelist.net/character/57275/Minori_Kishimoto"
+  },
+  {
+    "malId": 57377,
+    "nombreOriginal": "Koike",
+    "rol": "Supporting",
+    "favoritos": 0,
+    "imagen": "https://cdn.myanimelist.net/images/characters/11/156515.jpg?s=b1623cd2588bd5e741ef5b9742db5155",
+    "url": "https://myanimelist.net/character/57377/Koike"
+  },
+  {
+    "malId": 12865,
+    "nombreOriginal": "Koshino, Hiroaki",
+    "rol": "Supporting",
+    "favoritos": 0,
+    "imagen": "https://cdn.myanimelist.net/images/characters/12/154963.jpg?s=11dd53b60e4e6183e0c9ee1e20748a60",
+    "url": "https://myanimelist.net/character/12865/Hiroaki_Koshino"
+  },
+  {
+    "malId": 14599,
+    "nombreOriginal": "Kuwata, Toki",
+    "rol": "Supporting",
+    "favoritos": 0,
+    "imagen": "https://cdn.myanimelist.net/images/characters/16/154863.jpg?s=7c3cd74284fcea4a21a4c19c88af89f0",
+    "url": "https://myanimelist.net/character/14599/Toki_Kuwata"
+  },
+  {
+    "malId": 57387,
+    "nombreOriginal": "Matsui",
+    "rol": "Supporting",
+    "favoritos": 0,
+    "imagen": "https://cdn.myanimelist.net/images/characters/6/156525.jpg?s=f9e7f12ca8d1edc2bf4d7f2881a3b19b",
+    "url": "https://myanimelist.net/character/57387/Matsui"
+  },
+  {
+    "malId": 129823,
+    "nombreOriginal": "Matsumoto, Minoru",
+    "rol": "Supporting",
+    "favoritos": 0,
+    "imagen": "https://cdn.myanimelist.net/images/characters/11/284367.jpg?s=b530421a1e69918b3379aab9ce9b813d",
+    "url": "https://myanimelist.net/character/129823/Minoru_Matsumoto"
+  },
+  {
+    "malId": 57329,
+    "nombreOriginal": "Mayuzumi, Akira",
+    "rol": "Supporting",
+    "favoritos": 0,
+    "imagen": "https://cdn.myanimelist.net/images/characters/12/156461.jpg?s=e23e87f2fcfc5e2d31c355f9f5796260",
+    "url": "https://myanimelist.net/character/57329/Akira_Mayuzumi"
+  },
+  {
+    "malId": 57283,
+    "nombreOriginal": "Mikoshiba",
+    "rol": "Supporting",
+    "favoritos": 0,
+    "imagen": "https://cdn.myanimelist.net/images/characters/11/156421.jpg?s=171e750906eb0e96eee274268925a947",
+    "url": "https://myanimelist.net/character/57283/Mikoshiba"
+  },
+  {
+    "malId": 57327,
+    "nombreOriginal": "Miura, Yoshihide",
+    "rol": "Supporting",
+    "favoritos": 0,
+    "imagen": "https://cdn.myanimelist.net/images/characters/16/156459.jpg?s=839141e97aae8c8eb055610b8373750a",
+    "url": "https://myanimelist.net/character/57327/Yoshihide_Miura"
+  },
+  {
+    "malId": 57359,
+    "nombreOriginal": "Miyamasu, Yoshinori",
+    "rol": "Supporting",
+    "favoritos": 0,
+    "imagen": "https://cdn.myanimelist.net/images/characters/13/156491.jpg?s=4fec49304eaa07165af46a59582c8b4a",
+    "url": "https://myanimelist.net/character/57359/Yoshinori_Miyamasu"
+  },
+  {
+    "malId": 57315,
+    "nombreOriginal": "Morishige, Hiroshi",
+    "rol": "Supporting",
+    "favoritos": 0,
+    "imagen": "https://cdn.myanimelist.net/images/characters/10/156447.jpg?s=eab8411815184c5118222a1bd515acf9",
+    "url": "https://myanimelist.net/character/57315/Hiroshi_Morishige"
+  },
+  {
+    "malId": 55793,
+    "nombreOriginal": "Moroboshi, Dai",
+    "rol": "Supporting",
+    "favoritos": 0,
+    "imagen": "https://cdn.myanimelist.net/images/characters/11/154193.jpg?s=0b6d53b6b054883423a0a2966ccf5b4d",
+    "url": "https://myanimelist.net/character/55793/Dai_Moroboshi"
+  },
+  {
+    "malId": 57343,
+    "nombreOriginal": "Murasame, Kengo",
+    "rol": "Supporting",
+    "favoritos": 0,
+    "imagen": "https://cdn.myanimelist.net/images/characters/12/156475.jpg?s=c059faa1773946498f2a09359c6c0001",
+    "url": "https://myanimelist.net/character/57343/Kengo_Murasame"
+  },
+  {
+    "malId": 57355,
+    "nombreOriginal": "Mutou, Tadashi",
+    "rol": "Supporting",
+    "favoritos": 0,
+    "imagen": "https://cdn.myanimelist.net/images/characters/3/156487.jpg?s=07c9b7b2142baad3efab1e3b7889448e",
+    "url": "https://myanimelist.net/character/57355/Tadashi_Mutou"
+  },
+  {
+    "malId": 57349,
+    "nombreOriginal": "Nagano, Mitsuru",
+    "rol": "Supporting",
+    "favoritos": 0,
+    "imagen": "https://cdn.myanimelist.net/images/characters/6/156481.jpg?s=cc9b1811c8fa244db801cc7d333f8dec",
+    "url": "https://myanimelist.net/character/57349/Mitsuru_Nagano"
+  },
+  {
+    "malId": 57341,
+    "nombreOriginal": "Naitou, Tetsuya",
+    "rol": "Supporting",
+    "favoritos": 0,
+    "imagen": "https://cdn.myanimelist.net/images/characters/7/156473.jpg?s=c305cfdb204d05250d6ac5276eeb0c50",
+    "url": "https://myanimelist.net/character/57341/Tetsuya_Naitou"
+  },
+  {
+    "malId": 57371,
+    "nombreOriginal": "Nakamura",
+    "rol": "Supporting",
+    "favoritos": 0,
+    "imagen": "https://cdn.myanimelist.net/images/characters/16/156509.jpg?s=a6c695d043da3242e26b69d9b4905a97",
+    "url": "https://myanimelist.net/character/57371/Nakamura"
+  },
+  {
+    "malId": 57281,
+    "nombreOriginal": "Nangou, Kouichirou",
+    "rol": "Supporting",
+    "favoritos": 0,
+    "imagen": "https://cdn.myanimelist.net/images/characters/11/156419.jpg?s=93bb7be14d4f9aac14e5c408b653d705",
+    "url": "https://myanimelist.net/character/57281/Kouichirou_Nangou"
+  },
+  {
+    "malId": 160131,
+    "nombreOriginal": "Narrator",
+    "rol": "Supporting",
+    "favoritos": 0,
+    "imagen": "https://cdn.myanimelist.net/images/questionmark_23.gif?s=f7dcbc4a4603d18356d3dfef8abd655c",
+    "url": "https://myanimelist.net/character/160131/Narrator"
+  },
+  {
+    "malId": 129822,
+    "nombreOriginal": "Nobe, Masahiro",
+    "rol": "Supporting",
+    "favoritos": 0,
+    "imagen": "https://cdn.myanimelist.net/images/characters/8/284366.jpg?s=4f53a5dfbe214509a91d6c620ee21a41",
+    "url": "https://myanimelist.net/character/129822/Masahiro_Nobe"
+  },
+  {
+    "malId": 57331,
+    "nombreOriginal": "Oda, Tatsumasa",
+    "rol": "Supporting",
+    "favoritos": 0,
+    "imagen": "https://cdn.myanimelist.net/images/characters/8/156463.jpg?s=753a32eb14f9267e31780e5ed328dc3d",
+    "url": "https://myanimelist.net/character/57331/Tatsumasa_Oda"
+  },
+  {
+    "malId": 57277,
+    "nombreOriginal": "Ookawa, Teruo",
+    "rol": "Supporting",
+    "favoritos": 0,
+    "imagen": "https://cdn.myanimelist.net/images/characters/6/156415.jpg?s=f6684315f67aa38ae36954f66971ef48",
+    "url": "https://myanimelist.net/character/57277/Teruo_Ookawa"
+  },
+  {
+    "malId": 13687,
+    "nombreOriginal": "Ookusu, Yuuji",
+    "rol": "Supporting",
+    "favoritos": 0,
+    "imagen": "https://cdn.myanimelist.net/images/characters/12/26765.jpg?s=27e2005ffb6d35fafd37eb7675f6f8e3",
+    "url": "https://myanimelist.net/character/13687/Yuuji_Ookusu"
+  },
+  {
+    "malId": 57317,
+    "nombreOriginal": "Ryuu",
+    "rol": "Supporting",
+    "favoritos": 0,
+    "imagen": "https://cdn.myanimelist.net/images/characters/12/156449.jpg?s=77779bb155ed38a9f01fffcd99704286",
+    "url": "https://myanimelist.net/character/57317/Ryuu"
+  },
+  {
+    "malId": 57391,
+    "nombreOriginal": "Sasaoka, Satoru",
+    "rol": "Supporting",
+    "favoritos": 0,
+    "imagen": "https://cdn.myanimelist.net/images/characters/12/156529.jpg?s=c5937510a5f4f1f9256a64fc0bb2cc4d",
+    "url": "https://myanimelist.net/character/57391/Satoru_Sasaoka"
+  },
+  {
+    "malId": 57321,
+    "nombreOriginal": "Shimamura, Youko",
+    "rol": "Supporting",
+    "favoritos": 0,
+    "imagen": "https://cdn.myanimelist.net/images/characters/6/156453.jpg?s=9abd90741327b5408bdf126d20c804a4",
+    "url": "https://myanimelist.net/character/57321/Youko_Shimamura"
+  },
+  {
+    "malId": 57397,
+    "nombreOriginal": "Shiozaki, Tetsushi",
+    "rol": "Supporting",
+    "favoritos": 0,
+    "imagen": "https://cdn.myanimelist.net/images/characters/14/156535.jpg?s=6d3574c816e7c50856f4799c72a89861",
+    "url": "https://myanimelist.net/character/57397/Tetsushi_Shiozaki"
+  },
+  {
+    "malId": 57375,
+    "nombreOriginal": "Sugadaira",
+    "rol": "Supporting",
+    "favoritos": 0,
+    "imagen": "https://cdn.myanimelist.net/images/characters/11/156513.jpg?s=7598f312f7db79fee236404e7aa8b2ed",
+    "url": "https://myanimelist.net/character/57375/Sugadaira"
+  },
+  {
+    "malId": 57269,
+    "nombreOriginal": "Sugiyama, Shouta",
+    "rol": "Supporting",
+    "favoritos": 0,
+    "imagen": "https://cdn.myanimelist.net/images/characters/12/156407.jpg?s=7c32d028f9019505ff0a18cb11c53d3c",
+    "url": "https://myanimelist.net/character/57269/Shouta_Sugiyama"
+  },
+  {
+    "malId": 57347,
+    "nombreOriginal": "Takano, Shouichi",
+    "rol": "Supporting",
+    "favoritos": 0,
+    "imagen": "https://cdn.myanimelist.net/images/characters/11/156479.jpg?s=c106f01448cadcc3082bc917d4f41254",
+    "url": "https://myanimelist.net/character/57347/Shouichi_Takano"
+  },
+  {
+    "malId": 57357,
+    "nombreOriginal": "Takasago, Kazuma",
+    "rol": "Supporting",
+    "favoritos": 0,
+    "imagen": "https://cdn.myanimelist.net/images/characters/3/156489.jpg?s=547ceb0c151a11d3483eff601b09e89f",
+    "url": "https://myanimelist.net/character/57357/Kazuma_Takasago"
+  },
+  {
+    "malId": 57353,
+    "nombreOriginal": "Takatou, Riki",
+    "rol": "Supporting",
+    "favoritos": 0,
+    "imagen": "https://cdn.myanimelist.net/images/characters/13/156485.jpg?s=aa1076313e423b84d1939496d33ae0c7",
+    "url": "https://myanimelist.net/character/57353/Riki_Takatou"
+  },
+  {
+    "malId": 12868,
+    "nombreOriginal": "Taoka, Moichi",
+    "rol": "Supporting",
+    "favoritos": 0,
+    "imagen": "https://cdn.myanimelist.net/images/characters/11/154263.jpg?s=9e1888f425340839f1e8b16dc2b716e3",
+    "url": "https://myanimelist.net/character/12868/Moichi_Taoka"
+  },
+  {
+    "malId": 129825,
+    "nombreOriginal": "Tsuchiya, Atsushi",
+    "rol": "Supporting",
+    "favoritos": 0,
+    "imagen": "https://cdn.myanimelist.net/images/characters/15/284369.jpg?s=9c707a999b9def254fa1230babc9352d",
+    "url": "https://myanimelist.net/character/129825/Atsushi_Tsuchiya"
+  },
+  {
+    "malId": 12866,
+    "nombreOriginal": "Uekusa, Tomoyuki",
+    "rol": "Supporting",
+    "favoritos": 0,
+    "imagen": "https://cdn.myanimelist.net/images/characters/3/24640.jpg?s=52a1c281463f0fbeae5f0b9606ec9a70",
+    "url": "https://myanimelist.net/character/12866/Tomoyuki_Uekusa"
+  },
+  {
+    "malId": 57273,
+    "nombreOriginal": "Yazawa, Ryuuji",
+    "rol": "Supporting",
+    "favoritos": 0,
+    "imagen": "https://cdn.myanimelist.net/images/characters/7/156411.jpg?s=2ce74dc14f3dd18632faeabe72b3114e",
+    "url": "https://myanimelist.net/character/57273/Ryuuji_Yazawa"
+  },
+  {
+    "malId": 57325,
+    "nombreOriginal": "Yuuki, Isamu",
+    "rol": "Supporting",
+    "favoritos": 0,
+    "imagen": "https://cdn.myanimelist.net/images/characters/9/156457.jpg?s=7fa5b26c3b7b26fb2fad731150a20347",
+    "url": "https://myanimelist.net/character/57325/Isamu_Yuuki"
+  }
+]
