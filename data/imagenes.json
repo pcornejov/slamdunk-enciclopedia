@@ -222,8 +222,63 @@
       ],
       "fuente": "jikan",
       "alt": "Tsuyoshi Minami — Slam Dunk"
+    },
+    "jun-uozumi": {
+      "principal": "https://static.wikia.nocookie.net/slamdunk/images/d/db/Uozumi.png",
+      "galeria": [
+        "https://static.wikia.nocookie.net/slamdunk/images/d/db/Uozumi.png"
+      ],
+      "fuente": "web",
+      "alt": "Jun Uozumi — Slam Dunk"
+    },
+    "hiroaki-koshino": {
+      "principal": "https://static.wikia.nocookie.net/slamdunk/images/a/a6/HiroakiKoshinoSlamdunk.png",
+      "galeria": [
+        "https://static.wikia.nocookie.net/slamdunk/images/a/a6/HiroakiKoshinoSlamdunk.png"
+      ],
+      "fuente": "web",
+      "alt": "Hiroaki Koshino — Slam Dunk"
+    },
+    "eiji-sawakita": {
+      "principal": "https://static.wikia.nocookie.net/slamdunk/images/c/c0/Sawakita.png",
+      "galeria": [
+        "https://static.wikia.nocookie.net/slamdunk/images/c/c0/Sawakita.png"
+      ],
+      "fuente": "web",
+      "alt": "Eiji Sawakita — Slam Dunk"
     }
   },
-  "equipos": {},
+  "equipos": {
+    "shohoku": {
+      "principal": "https://static.wikia.nocookie.net/slamdunk/images/1/1c/Shohoku_red.png",
+      "fuente": "web",
+      "alt": "Shohoku — uniforme del equipo, Slam Dunk"
+    },
+    "ryonan": {
+      "principal": "https://static.wikia.nocookie.net/slamdunk/images/6/67/RyonanHigh.png",
+      "fuente": "web",
+      "alt": "Ryonan — equipo, Slam Dunk"
+    },
+    "kainan": {
+      "principal": "https://static.wikia.nocookie.net/slamdunk/images/6/6f/Kainan_High.jpg",
+      "fuente": "web",
+      "alt": "Kainan — equipo, Slam Dunk"
+    },
+    "shoyo": {
+      "principal": "https://static.wikia.nocookie.net/slamdunk/images/c/cb/ShoyoHigh.png",
+      "fuente": "web",
+      "alt": "Shoyo — equipo, Slam Dunk"
+    },
+    "sannoh": {
+      "principal": "https://static.wikia.nocookie.net/slamdunk/images/c/ca/Sannoh2.png",
+      "fuente": "web",
+      "alt": "Sannoh — equipo, Slam Dunk"
+    },
+    "toyotama": {
+      "principal": "https://static.wikia.nocookie.net/slamdunk/images/7/7c/Toyotamahigh.webp",
+      "fuente": "web",
+      "alt": "Toyotama — equipo, Slam Dunk"
+    }
+  },
   "locaciones": {}
 }
