@@ -398,5 +398,26 @@
       "alt": "Toyotama — equipo, Slam Dunk"
     }
   },
-  "locaciones": {}
+  "locaciones": {
+    "instituto-shohoku": {
+      "principal": "https://static.wikia.nocookie.net/slamdunk/images/d/d1/Rukawa_sleeping_on_the_rooftop.jpg",
+      "fuente": "web",
+      "alt": "Instituto Shohoku — Slam Dunk"
+    },
+    "gimnasio-shohoku": {
+      "principal": "https://static.wikia.nocookie.net/slamdunk/images/c/ce/Practice_game_between_Shohuko_High_Sophmores_and_First_Year_Students.png",
+      "fuente": "web",
+      "alt": "Gimnasio de Shohoku — Slam Dunk"
+    },
+    "kanagawa": {
+      "principal": "https://upload.wikimedia.org/wikipedia/commons/4/45/Enoshima_eastside_beach.jpg",
+      "fuente": "web",
+      "alt": "Prefectura de Kanagawa — costa de Enoshima"
+    },
+    "pabellon-nacional-hiroshima": {
+      "principal": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Hiroshima_Green_Arena_-_Dec_31%2C_2007.jpg",
+      "fuente": "web",
+      "alt": "Sede del Campeonato Nacional — Hiroshima Green Arena"
+    }
+  }
 }
