@@ -57,7 +57,14 @@ async function main() {
       url: anime.url,
     },
     relacionados: busqueda
-      .filter((a) => a.mal_id !== ANIME_ID)
+      // La búsqueda de Jikan es difusa y devuelve títulos ajenos (Conan, Slime,
+      // "Slap Up Party", etc.). Nos quedamos SOLO con entradas reales de Slam Dunk.
+      .filter(
+        (a) =>
+          a.mal_id !== ANIME_ID &&
+          (/slam\s*dunk/i.test(a.title) ||
+            /スラムダンク/.test(a.title_japanese || "")),
+      )
       .map((a) => ({
         malId: a.mal_id,
         titulo: a.title,
