@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
-import { getCuriosidades } from "@/lib/data";
+import { getCuriosidades, imagenSeccion } from "@/lib/data";
+import CabeceraSeccion from "../components/CabeceraSeccion";
 
 export const metadata: Metadata = {
   title: "Curiosidades · Enciclopedia Slam Dunk",
@@ -30,13 +31,14 @@ export default function CuriosidadesPage() {
   const categorias = [...new Set(curiosidades.map((c) => c.categoria))];
 
   return (
-    <div className="mx-auto max-w-4xl px-6 py-10">
-      <h1 className="mb-2 text-3xl font-black">Curiosidades</h1>
-      <p className="mb-6 text-zinc-600 dark:text-zinc-400">
-        Datos reales sobre el manga, el anime y su autor, Takehiko Inoue.
-      </p>
-
-      <div className="mb-8 flex flex-wrap gap-2">
+    <>
+      <CabeceraSeccion
+        titulo="Curiosidades"
+        subtitulo="Datos reales sobre el manga, el anime y su autor, Takehiko Inoue."
+        imagen={imagenSeccion("curiosidades")}
+      />
+      <div className="mx-auto max-w-4xl px-6 py-10">
+        <div className="mb-8 flex flex-wrap gap-2">
         {categorias.map((cat) => (
           <span
             key={cat}
@@ -66,7 +68,8 @@ export default function CuriosidadesPage() {
             </p>
           </article>
         ))}
+        </div>
       </div>
-    </div>
+    </>
   );
 }

@@ -457,6 +457,16 @@
         "fuente": "web",
         "alt": "Toyotama"
       }
+    },
+    "secciones": {
+      "personajes":   { "principal": "https://static.wikia.nocookie.net/slamdunk/images/c/cf/Shohuko_High_Team_-_Color_Spread.png", "fuente": "web", "alt": "Personajes" },
+      "equipos":      { "principal": "https://static.wikia.nocookie.net/slamdunk/images/3/33/Takasago_-_Slam_Dunk_Artwork_03.png", "fuente": "web", "alt": "Equipos" },
+      "arcos":        { "principal": "https://static.wikia.nocookie.net/slamdunk/images/7/7a/Sannohhigh.jpg", "fuente": "web", "alt": "Arcos" },
+      "partidos":     { "principal": "https://static.wikia.nocookie.net/slamdunk/images/9/91/Slam_dunk.jpg", "fuente": "web", "alt": "Partidos" },
+      "anime":        { "principal": "https://static.wikia.nocookie.net/slamdunk/images/7/7c/Oda_1994.jpg", "fuente": "web", "alt": "Anime" },
+      "manga":        { "principal": "https://static.wikia.nocookie.net/slamdunk/images/6/68/SakuragiManga.jpg", "fuente": "web", "alt": "Manga" },
+      "locaciones":   { "principal": "https://static.wikia.nocookie.net/slamdunk/images/d/d1/Rukawa_sleeping_on_the_rooftop.jpg", "fuente": "web", "alt": "Locaciones" },
+      "curiosidades": { "principal": "https://static.wikia.nocookie.net/slamdunk/images/3/37/Slam_Dunk_-_Artwork_-_image_05.jpg", "fuente": "web", "alt": "Curiosidades" }
     }
   }
 }

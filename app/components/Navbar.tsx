@@ -1,4 +1,5 @@
 import Link from "next/link";
+import ThemeToggle from "./ThemeToggle";
 
 const enlaces = [
   { href: "/", texto: "Inicio" },
@@ -19,18 +20,21 @@ export default function Navbar() {
         <Link href="/" className="text-lg font-black tracking-tight">
           🏀 Enciclopedia <span className="text-red-200">Slam Dunk</span>
         </Link>
-        <ul className="flex flex-wrap gap-1 text-sm font-medium">
-          {enlaces.map((e) => (
-            <li key={e.href}>
-              <Link
-                href={e.href}
-                className="rounded-full px-3 py-1.5 transition-colors hover:bg-red-700"
-              >
-                {e.texto}
-              </Link>
-            </li>
-          ))}
-        </ul>
+        <div className="flex flex-wrap items-center gap-2">
+          <ul className="flex flex-wrap gap-1 text-sm font-medium">
+            {enlaces.map((e) => (
+              <li key={e.href}>
+                <Link
+                  href={e.href}
+                  className="rounded-full px-3 py-1.5 transition-colors hover:bg-red-700"
+                >
+                  {e.texto}
+                </Link>
+              </li>
+            ))}
+          </ul>
+          <ThemeToggle />
+        </div>
       </nav>
     </header>
   );

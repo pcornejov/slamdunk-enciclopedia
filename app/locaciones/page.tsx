@@ -1,5 +1,11 @@
 import type { Metadata } from "next";
-import { getLocaciones, imagenLocacion, PLACEHOLDER } from "@/lib/data";
+import {
+  getLocaciones,
+  imagenLocacion,
+  imagenSeccion,
+  PLACEHOLDER,
+} from "@/lib/data";
+import CabeceraSeccion from "../components/CabeceraSeccion";
 
 export const metadata: Metadata = {
   title: "Locaciones · Enciclopedia Slam Dunk",
@@ -10,13 +16,14 @@ export default function LocacionesPage() {
   const locaciones = getLocaciones();
 
   return (
-    <div className="mx-auto max-w-4xl px-6 py-10">
-      <h1 className="mb-2 text-3xl font-black">Locaciones</h1>
-      <p className="mb-8 text-zinc-600 dark:text-zinc-400">
-        Los lugares donde transcurre la historia.
-      </p>
-
-      <div className="flex flex-col gap-5">
+    <>
+      <CabeceraSeccion
+        titulo="Locaciones"
+        subtitulo="Los lugares donde transcurre la historia."
+        imagen={imagenSeccion("locaciones")}
+      />
+      <div className="mx-auto max-w-4xl px-6 py-10">
+        <div className="flex flex-col gap-5">
         {locaciones.map((l) => {
           const img = imagenLocacion(l.slug);
           return (
@@ -40,8 +47,9 @@ export default function LocacionesPage() {
               </div>
             </article>
           );
-        })}
+          })}
+        </div>
       </div>
-    </div>
+    </>
   );
 }

@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { getEquipos, getPersonajesDeEquipo } from "@/lib/data";
+import { getEquipos, getPersonajesDeEquipo, imagenSeccion } from "@/lib/data";
+import CabeceraSeccion from "../components/CabeceraSeccion";
 
 export const metadata: Metadata = {
   title: "Equipos · Enciclopedia Slam Dunk",
@@ -11,13 +12,14 @@ export default function EquiposPage() {
   const equipos = getEquipos();
 
   return (
-    <div className="mx-auto max-w-6xl px-6 py-10">
-      <h1 className="mb-2 text-3xl font-black">Equipos</h1>
-      <p className="mb-8 text-zinc-600 dark:text-zinc-400">
-        Los institutos que compiten por el campeonato nacional.
-      </p>
-
-      <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+    <>
+      <CabeceraSeccion
+        titulo="Equipos"
+        subtitulo="Los institutos que compiten por el campeonato nacional."
+        imagen={imagenSeccion("equipos")}
+      />
+      <div className="mx-auto max-w-6xl px-6 py-10">
+        <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
         {equipos.map((eq) => {
           const n = getPersonajesDeEquipo(eq.slug).length;
           return (
@@ -41,8 +43,9 @@ export default function EquiposPage() {
               </div>
             </Link>
           );
-        })}
+          })}
+        </div>
       </div>
-    </div>
+    </>
   );
 }

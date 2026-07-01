@@ -91,6 +91,7 @@ interface ManifiestoImagenes {
   ui?: {
     hero?: ImagenEntrada;
     banners?: Record<string, ImagenEntrada>;
+    secciones?: Record<string, ImagenEntrada>;
   };
 }
 
@@ -218,4 +219,9 @@ export function imagenHero(): string | null {
 /** Banner de cabecera de un equipo. `null` si aún no existe. */
 export function bannerEquipo(slug: string): string | null {
   return manifiesto.ui?.banners?.[slug]?.principal ?? null;
+}
+
+/** Imagen de cabecera de una sección de listado. `null` si aún no existe. */
+export function imagenSeccion(clave: string): string | null {
+  return manifiesto.ui?.secciones?.[clave]?.principal ?? null;
 }

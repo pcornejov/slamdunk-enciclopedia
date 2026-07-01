@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
-import { getAnime } from "@/lib/data";
+import { getAnime, imagenSeccion } from "@/lib/data";
+import CabeceraSeccion from "../components/CabeceraSeccion";
 
 export const metadata: Metadata = {
   title: "Anime · Enciclopedia Slam Dunk",
@@ -38,10 +39,14 @@ export default function AnimePage() {
   const relacionados = (data.relacionados ?? []).filter((r) => r.imagen);
 
   return (
-    <div className="mx-auto max-w-5xl px-6 py-10">
-      <h1 className="mb-8 text-3xl font-black">Anime</h1>
-
-      {/* Serie principal */}
+    <>
+      <CabeceraSeccion
+        titulo="Anime"
+        subtitulo="La serie de anime de Slam Dunk, sus películas y OVAs."
+        imagen={imagenSeccion("anime")}
+      />
+      <div className="mx-auto max-w-5xl px-6 py-10">
+        {/* Serie principal */}
       <section className="grid gap-6 md:grid-cols-[220px_1fr]">
         {serie.imagen && (
           // eslint-disable-next-line @next/next/no-img-element
@@ -117,6 +122,7 @@ export default function AnimePage() {
           </div>
         </section>
       )}
-    </div>
+      </div>
+    </>
   );
 }

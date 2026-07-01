@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
-import { getManga } from "@/lib/data";
+import { getManga, imagenSeccion } from "@/lib/data";
+import CabeceraSeccion from "../components/CabeceraSeccion";
 
 export const metadata: Metadata = {
   title: "Manga · Enciclopedia Slam Dunk",
@@ -32,11 +33,14 @@ export default function MangaPage() {
   ];
 
   return (
-    <div className="mx-auto max-w-3xl px-6 py-10">
-      <h1 className="text-3xl font-black">{m.titulo ?? "Manga"}</h1>
-      <p className="mt-1 text-lg text-zinc-500">{m.tituloJp}</p>
-
-      <dl className="mt-8 grid grid-cols-2 gap-4 sm:grid-cols-3">
+    <>
+      <CabeceraSeccion
+        titulo={m.titulo ?? "Manga"}
+        subtitulo={m.tituloJp}
+        imagen={imagenSeccion("manga")}
+      />
+      <div className="mx-auto max-w-3xl px-6 py-10">
+        <dl className="mt-8 grid grid-cols-2 gap-4 sm:grid-cols-3">
         {fichas.map(([k, v]) => (
           <div
             key={k}
@@ -80,6 +84,7 @@ export default function MangaPage() {
           </p>
         </section>
       )}
-    </div>
+      </div>
+    </>
   );
 }

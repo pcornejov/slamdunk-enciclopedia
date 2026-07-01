@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { getEquipo, getPartidos } from "@/lib/data";
+import { getEquipo, getPartidos, imagenSeccion } from "@/lib/data";
+import CabeceraSeccion from "../components/CabeceraSeccion";
 
 export const metadata: Metadata = {
   title: "Partidos clave · Enciclopedia Slam Dunk",
@@ -12,13 +13,14 @@ export default function PartidosPage() {
   const partidos = getPartidos();
 
   return (
-    <div className="mx-auto max-w-3xl px-6 py-10">
-      <h1 className="mb-2 text-3xl font-black">Partidos clave</h1>
-      <p className="mb-8 text-zinc-600 dark:text-zinc-400">
-        Los enfrentamientos que definieron el camino de Shohoku.
-      </p>
-
-      <ul className="flex flex-col gap-4">
+    <>
+      <CabeceraSeccion
+        titulo="Partidos clave"
+        subtitulo="Los enfrentamientos que definieron el camino de Shohoku."
+        imagen={imagenSeccion("partidos")}
+      />
+      <div className="mx-auto max-w-3xl px-6 py-10">
+        <ul className="flex flex-col gap-4">
         {partidos.map((p) => {
           const local = getEquipo(p.local);
           const visitante = getEquipo(p.visitante);
@@ -66,8 +68,9 @@ export default function PartidosPage() {
               </Link>
             </li>
           );
-        })}
-      </ul>
-    </div>
+          })}
+        </ul>
+      </div>
+    </>
   );
 }

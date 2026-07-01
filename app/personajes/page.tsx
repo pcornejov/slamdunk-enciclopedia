@@ -1,8 +1,15 @@
 import type { Metadata } from "next";
-import { getEquipos, getPersonajes, getEquipo, imagenPersonaje } from "@/lib/data";
+import {
+  getEquipos,
+  getPersonajes,
+  getEquipo,
+  imagenPersonaje,
+  imagenSeccion,
+} from "@/lib/data";
 import BuscadorPersonajes, {
   type PersonajeBuscador,
 } from "../components/BuscadorPersonajes";
+import CabeceraSeccion from "../components/CabeceraSeccion";
 
 export const metadata: Metadata = {
   title: "Personajes · Enciclopedia Slam Dunk",
@@ -29,14 +36,15 @@ export default function PersonajesPage() {
   const equiposFiltro = equipos.map((e) => ({ slug: e.slug, nombre: e.nombre }));
 
   return (
-    <div className="mx-auto max-w-6xl px-6 py-10">
-      <h1 className="mb-2 text-3xl font-black">Personajes</h1>
-      <p className="mb-8 text-zinc-600 dark:text-zinc-400">
-        Jugadores, entrenadores y protagonistas. Busca por nombre o filtra por
-        equipo.
-      </p>
-
-      <BuscadorPersonajes personajes={personajes} equipos={equiposFiltro} />
-    </div>
+    <>
+      <CabeceraSeccion
+        titulo="Personajes"
+        subtitulo="Jugadores, entrenadores y protagonistas. Busca por nombre o filtra por equipo."
+        imagen={imagenSeccion("personajes")}
+      />
+      <div className="mx-auto max-w-6xl px-6 py-10">
+        <BuscadorPersonajes personajes={personajes} equipos={equiposFiltro} />
+      </div>
+    </>
   );
 }
