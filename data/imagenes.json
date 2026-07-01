@@ -1,6 +1,229 @@
 {
-  "_descripcion": "Manifiesto de imágenes. Propiedad EXCLUSIVA del Agente de Imágenes. Clave = slug de personaje/equipo/locación. Valor = { principal, galeria:[urls], fuente, alt }.",
-  "personajes": {},
+  "_descripcion": "Manifiesto de imágenes (propiedad del rol de imágenes).",
+  "personajes": {
+    "hanamichi-sakuragi": {
+      "principal": "https://cdn.myanimelist.net/images/characters/6/73534.jpg",
+      "galeria": [
+        "https://cdn.myanimelist.net/images/characters/6/73534.jpg",
+        "https://cdn.myanimelist.net/images/characters/13/77725.jpg",
+        "https://cdn.myanimelist.net/images/characters/16/79625.jpg",
+        "https://cdn.myanimelist.net/images/characters/13/80891.jpg",
+        "https://cdn.myanimelist.net/images/characters/11/80892.jpg",
+        "https://cdn.myanimelist.net/images/characters/10/95003.jpg",
+        "https://cdn.myanimelist.net/images/characters/15/95005.jpg",
+        "https://cdn.myanimelist.net/images/characters/14/102780.jpg",
+        "https://cdn.myanimelist.net/images/characters/7/314546.jpg",
+        "https://cdn.myanimelist.net/images/characters/7/438841.jpg",
+        "https://cdn.myanimelist.net/images/characters/5/512339.jpg"
+      ],
+      "fuente": "jikan",
+      "alt": "Hanamichi Sakuragi — Slam Dunk"
+    },
+    "kaede-rukawa": {
+      "principal": "https://cdn.myanimelist.net/images/characters/3/47093.jpg",
+      "galeria": [
+        "https://cdn.myanimelist.net/images/characters/3/47093.jpg",
+        "https://cdn.myanimelist.net/images/characters/14/57116.jpg",
+        "https://cdn.myanimelist.net/images/characters/11/58991.jpg",
+        "https://cdn.myanimelist.net/images/characters/9/95004.jpg",
+        "https://cdn.myanimelist.net/images/characters/9/103765.jpg",
+        "https://cdn.myanimelist.net/images/characters/8/266473.jpg",
+        "https://cdn.myanimelist.net/images/characters/15/374737.jpg",
+        "https://cdn.myanimelist.net/images/characters/12/508663.jpg",
+        "https://cdn.myanimelist.net/images/characters/10/512338.jpg"
+      ],
+      "fuente": "jikan",
+      "alt": "Kaede Rukawa — Slam Dunk"
+    },
+    "takenori-akagi": {
+      "principal": "https://cdn.myanimelist.net/images/characters/9/47096.jpg",
+      "galeria": [
+        "https://cdn.myanimelist.net/images/characters/9/47096.jpg",
+        "https://cdn.myanimelist.net/images/characters/13/292301.jpg",
+        "https://cdn.myanimelist.net/images/characters/6/512342.jpg"
+      ],
+      "fuente": "jikan",
+      "alt": "Takenori Akagi — Slam Dunk"
+    },
+    "ryota-miyagi": {
+      "principal": "https://cdn.myanimelist.net/images/characters/15/47092.jpg",
+      "galeria": [
+        "https://cdn.myanimelist.net/images/characters/15/47092.jpg",
+        "https://cdn.myanimelist.net/images/characters/3/58146.jpg",
+        "https://cdn.myanimelist.net/images/characters/5/103764.jpg",
+        "https://cdn.myanimelist.net/images/characters/2/103766.jpg",
+        "https://cdn.myanimelist.net/images/characters/5/300977.jpg",
+        "https://cdn.myanimelist.net/images/characters/9/378884.jpg",
+        "https://cdn.myanimelist.net/images/characters/6/568652.jpg"
+      ],
+      "fuente": "jikan",
+      "alt": "Ryota Miyagi — Slam Dunk"
+    },
+    "hisashi-mitsui": {
+      "principal": "https://cdn.myanimelist.net/images/characters/10/79369.jpg",
+      "galeria": [
+        "https://cdn.myanimelist.net/images/characters/10/79369.jpg",
+        "https://cdn.myanimelist.net/images/characters/10/95008.jpg",
+        "https://cdn.myanimelist.net/images/characters/10/203181.jpg",
+        "https://cdn.myanimelist.net/images/characters/9/204435.jpg",
+        "https://cdn.myanimelist.net/images/characters/3/339913.jpg",
+        "https://cdn.myanimelist.net/images/characters/7/512341.jpg",
+        "https://cdn.myanimelist.net/images/characters/14/546665.jpg"
+      ],
+      "fuente": "jikan",
+      "alt": "Hisashi Mitsui — Slam Dunk"
+    },
+    "kiminobu-kogure": {
+      "principal": "https://cdn.myanimelist.net/images/characters/8/292307.jpg",
+      "galeria": [
+        "https://cdn.myanimelist.net/images/characters/8/292307.jpg",
+        "https://cdn.myanimelist.net/images/characters/5/368858.jpg"
+      ],
+      "fuente": "jikan",
+      "alt": "Kiminobu Kogure — Slam Dunk"
+    },
+    "mitsuyoshi-anzai": {
+      "principal": "https://cdn.myanimelist.net/images/characters/6/77865.jpg",
+      "galeria": [
+        "https://cdn.myanimelist.net/images/characters/6/77865.jpg",
+        "https://cdn.myanimelist.net/images/characters/3/594545.jpg"
+      ],
+      "fuente": "jikan",
+      "alt": "Mitsuyoshi Anzai — Slam Dunk"
+    },
+    "ayako": {
+      "principal": "https://cdn.myanimelist.net/images/characters/3/58138.jpg",
+      "galeria": [
+        "https://cdn.myanimelist.net/images/characters/3/58138.jpg",
+        "https://cdn.myanimelist.net/images/characters/16/103767.jpg",
+        "https://cdn.myanimelist.net/images/characters/13/103769.jpg",
+        "https://cdn.myanimelist.net/images/characters/8/103772.jpg",
+        "https://cdn.myanimelist.net/images/characters/8/169647.jpg",
+        "https://cdn.myanimelist.net/images/characters/8/593258.jpg",
+        "https://cdn.myanimelist.net/images/characters/14/594544.jpg"
+      ],
+      "fuente": "jikan",
+      "alt": "Ayako — Slam Dunk"
+    },
+    "haruko-akagi": {
+      "principal": "https://cdn.myanimelist.net/images/characters/13/58145.jpg",
+      "galeria": [
+        "https://cdn.myanimelist.net/images/characters/13/58145.jpg",
+        "https://cdn.myanimelist.net/images/characters/8/99528.jpg",
+        "https://cdn.myanimelist.net/images/characters/3/593257.jpg",
+        "https://cdn.myanimelist.net/images/characters/12/594983.jpg"
+      ],
+      "fuente": "jikan",
+      "alt": "Haruko Akagi — Slam Dunk"
+    },
+    "yohei-mito": {
+      "principal": "https://cdn.myanimelist.net/images/characters/3/285971.jpg",
+      "galeria": [
+        "https://cdn.myanimelist.net/images/characters/3/285971.jpg"
+      ],
+      "fuente": "jikan",
+      "alt": "Yohei Mito — Slam Dunk"
+    },
+    "akira-sendoh": {
+      "principal": "https://cdn.myanimelist.net/images/characters/10/79382.jpg",
+      "galeria": [
+        "https://cdn.myanimelist.net/images/characters/10/79382.jpg",
+        "https://cdn.myanimelist.net/images/characters/7/79624.jpg",
+        "https://cdn.myanimelist.net/images/characters/3/103770.jpg",
+        "https://cdn.myanimelist.net/images/characters/5/103771.jpg",
+        "https://cdn.myanimelist.net/images/characters/14/103784.jpg",
+        "https://cdn.myanimelist.net/images/characters/4/285972.jpg",
+        "https://cdn.myanimelist.net/images/characters/9/285973.jpg",
+        "https://cdn.myanimelist.net/images/characters/5/292309.jpg",
+        "https://cdn.myanimelist.net/images/characters/10/396246.jpg"
+      ],
+      "fuente": "jikan",
+      "alt": "Akira Sendoh — Slam Dunk"
+    },
+    "kicchou-fukuda": {
+      "principal": "https://cdn.myanimelist.net/images/characters/5/328284.jpg",
+      "galeria": [
+        "https://cdn.myanimelist.net/images/characters/5/328284.jpg"
+      ],
+      "fuente": "jikan",
+      "alt": "Kicchou Fukuda — Slam Dunk"
+    },
+    "hikoichi-aida": {
+      "principal": "https://cdn.myanimelist.net/images/characters/2/24643.jpg",
+      "galeria": [
+        "https://cdn.myanimelist.net/images/characters/2/24643.jpg",
+        "https://cdn.myanimelist.net/images/characters/11/154961.jpg",
+        "https://cdn.myanimelist.net/images/characters/3/155175.jpg"
+      ],
+      "fuente": "jikan",
+      "alt": "Hikoichi Aida — Slam Dunk"
+    },
+    "shinichi-maki": {
+      "principal": "https://cdn.myanimelist.net/images/characters/6/292308.jpg",
+      "galeria": [
+        "https://cdn.myanimelist.net/images/characters/6/292308.jpg"
+      ],
+      "fuente": "jikan",
+      "alt": "Shinichi Maki — Slam Dunk"
+    },
+    "soichiro-jin": {
+      "principal": "https://cdn.myanimelist.net/images/characters/11/25177.jpg",
+      "galeria": [
+        "https://cdn.myanimelist.net/images/characters/11/25177.jpg",
+        "https://cdn.myanimelist.net/images/characters/4/154891.jpg"
+      ],
+      "fuente": "jikan",
+      "alt": "Soichiro Jin — Slam Dunk"
+    },
+    "nobunaga-kiyota": {
+      "principal": "https://cdn.myanimelist.net/images/characters/15/292306.jpg",
+      "galeria": [
+        "https://cdn.myanimelist.net/images/characters/15/292306.jpg"
+      ],
+      "fuente": "jikan",
+      "alt": "Nobunaga Kiyota — Slam Dunk"
+    },
+    "kenji-fujima": {
+      "principal": "https://cdn.myanimelist.net/images/characters/12/292303.jpg",
+      "galeria": [
+        "https://cdn.myanimelist.net/images/characters/12/292303.jpg"
+      ],
+      "fuente": "jikan",
+      "alt": "Kenji Fujima — Slam Dunk"
+    },
+    "toru-hanagata": {
+      "principal": "https://cdn.myanimelist.net/images/characters/10/292304.jpg",
+      "galeria": [
+        "https://cdn.myanimelist.net/images/characters/10/292304.jpg"
+      ],
+      "fuente": "jikan",
+      "alt": "Toru Hanagata — Slam Dunk"
+    },
+    "masashi-kawata": {
+      "principal": "https://cdn.myanimelist.net/images/characters/4/284362.jpg",
+      "galeria": [
+        "https://cdn.myanimelist.net/images/characters/4/284362.jpg"
+      ],
+      "fuente": "jikan",
+      "alt": "Masashi Kawata — Slam Dunk"
+    },
+    "mikio-kawata": {
+      "principal": "https://cdn.myanimelist.net/images/characters/4/284364.jpg",
+      "galeria": [
+        "https://cdn.myanimelist.net/images/characters/4/284364.jpg"
+      ],
+      "fuente": "jikan",
+      "alt": "Mikio Kawata — Slam Dunk"
+    },
+    "tsuyoshi-minami": {
+      "principal": "https://cdn.myanimelist.net/images/characters/11/284359.jpg",
+      "galeria": [
+        "https://cdn.myanimelist.net/images/characters/11/284359.jpg"
+      ],
+      "fuente": "jikan",
+      "alt": "Tsuyoshi Minami — Slam Dunk"
+    }
+  },
   "equipos": {},
   "locaciones": {}
 }

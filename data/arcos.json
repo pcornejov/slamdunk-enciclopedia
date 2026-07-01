@@ -1,0 +1,58 @@
+[
+  {
+    "slug": "presentacion",
+    "titulo": "Presentación: el genio Sakuragi",
+    "orden": 1,
+    "resumen": "Hanamichi Sakuragi, un delincuente pelirrojo con mala suerte en el amor, entra al instituto Shohoku. Allí conoce a Haruko Akagi, que le pregunta si le gusta el baloncesto. Para conquistarla, Sakuragi se une al club pese a no saber jugar, descubriendo un físico privilegiado y una rivalidad inmediata con la estrella Rukawa.",
+    "equipos": ["shohoku"]
+  },
+  {
+    "slug": "formacion-equipo",
+    "titulo": "La formación del equipo",
+    "orden": 2,
+    "resumen": "Sakuragi aprende los fundamentos del juego mientras el club recupera piezas clave. El escolta Hisashi Mitsui regresa tras años de ausencia y delincuencia con su célebre 'quiero jugar al baloncesto', y Ryota Miyagi vuelve tras una pelea. Con Akagi, Rukawa, Mitsui, Miyagi y Sakuragi, Shohoku arma por fin un quinteto temible.",
+    "equipos": ["shohoku"]
+  },
+  {
+    "slug": "amistoso-ryonan",
+    "titulo": "Partido amistoso contra Ryonan",
+    "orden": 3,
+    "resumen": "En su primer gran examen, Shohoku se mide a Ryonan y a su as Akira Sendoh. Aunque Sakuragi comete errores de novato, deja destellos de su potencial, y el equipo comprueba la distancia que aún lo separa de la élite de Kanagawa.",
+    "equipos": ["shohoku", "ryonan"]
+  },
+  {
+    "slug": "torneo-prefectural",
+    "titulo": "Torneo de la Prefectura de Kanagawa",
+    "orden": 4,
+    "resumen": "Arranca la clasificación regional. Shohoku supera rondas y se enfrenta a Shoyo, el histórico subcampeón dirigido por Fujima, en un duelo que confirma su ascenso. El objetivo: uno de los billetes de Kanagawa para el campeonato nacional.",
+    "equipos": ["shohoku", "shoyo"]
+  },
+  {
+    "slug": "shohoku-vs-kainan",
+    "titulo": "Shohoku contra Kainan",
+    "orden": 5,
+    "resumen": "El choque contra el rey de Kanagawa, Kainan, y su líder Maki. Una lesión de Akagi pone a prueba al equipo, que pese a rozar la hazaña cae por un margen mínimo, aprendiendo lo que cuesta vencer a los mejores.",
+    "equipos": ["shohoku", "kainan"]
+  },
+  {
+    "slug": "shohoku-vs-ryonan",
+    "titulo": "La revancha contra Ryonan",
+    "orden": 6,
+    "resumen": "Con la clasificación al nacional en juego, Shohoku se juega el todo por el todo ante Ryonan. En un partido épico, Sakuragi crece como reboteador y el equipo sella su pase al campeonato nacional, cumpliendo el sueño de Akagi.",
+    "equipos": ["shohoku", "ryonan"]
+  },
+  {
+    "slug": "nacional-toyotama",
+    "titulo": "Campeonato Nacional: Toyotama",
+    "orden": 7,
+    "resumen": "Ya en el torneo nacional (Inter-High) en Hiroshima, Shohoku afronta al veloz y agresivo Toyotama de Osaka, liderado por Minami. Un partido físico y de alto ritmo que templa al equipo para el desafío definitivo.",
+    "equipos": ["shohoku", "toyotama"]
+  },
+  {
+    "slug": "nacional-sannoh",
+    "titulo": "Campeonato Nacional: Sannoh",
+    "orden": 8,
+    "resumen": "El clímax de la serie: Shohoku contra Sannoh Kogyo, el campeón absoluto y mejor equipo de instituto de Japón, con Sawakita y los hermanos Kawata. En un duelo legendario y agónico, cada jugador da lo mejor de sí en uno de los partidos más recordados del manga deportivo.",
+    "equipos": ["shohoku", "sannoh"]
+  }
+]

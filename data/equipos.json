@@ -5,7 +5,7 @@
     "nombreJp": "湘北高校",
     "color": "#D7263D",
     "prefectura": "Kanagawa",
-    "descripcion": "",
+    "descripcion": "El instituto protagonista de la historia. Un equipo joven y desequilibrado que, gracias a la irrupción de Sakuragi y el regreso de Mitsui, se convierte en revelación de Kanagawa. Combina el talento de Rukawa, la fuerza de Akagi, la dirección de Miyagi y el tiro de Mitsui para desafiar a los grandes favoritos y llegar al campeonato nacional.",
     "destacado": true
   },
   {
@@ -14,7 +14,7 @@
     "nombreJp": "陵南高校",
     "color": "#2E86AB",
     "prefectura": "Kanagawa",
-    "descripcion": "",
+    "descripcion": "Potencia de Kanagawa dirigida por el astuto entrenador Taoka y liderada por el talentoso Sendoh. Equipo físico y bien entrenado que aspira cada año al título regional, es uno de los rivales recurrentes y respetados de Shohoku.",
     "destacado": true
   },
   {
@@ -23,7 +23,7 @@
     "nombreJp": "海南大附属高校",
     "color": "#F4A300",
     "prefectura": "Kanagawa",
-    "descripcion": "",
+    "descripcion": "El rey indiscutible de Kanagawa, con 17 participaciones nacionales consecutivas. Liderado por Maki, el mejor jugador de la prefectura, es un equipo profundo, disciplinado y mentalmente fuerte que representa la cima que Shohoku debe escalar.",
     "destacado": true
   },
   {
@@ -32,8 +32,8 @@
     "nombreJp": "翔陽高校",
     "color": "#2A9D8F",
     "prefectura": "Kanagawa",
-    "descripcion": "",
-    "destacado": true
+    "descripcion": "Histórico segundo de Kanagawa, dirigido desde la cancha por el base-entrenador Fujima. Equipo alto y técnico, protagoniza uno de los primeros grandes duelos de Shohoku en el torneo de la prefectura.",
+    "destacado": false
   },
   {
     "slug": "sannoh",
@@ -41,7 +41,7 @@
     "nombreJp": "山王工業高校",
     "color": "#8B0000",
     "prefectura": "Akita",
-    "descripcion": "",
+    "descripcion": "El campeón nacional absoluto, considerado el mejor equipo de instituto de Japón. Con Sawakita y los hermanos Kawata, encarna la barrera definitiva del campeonato nacional y protagoniza junto a Shohoku el partido más recordado de toda la serie.",
     "destacado": true
   },
   {
@@ -50,7 +50,7 @@
     "nombreJp": "豊玉高校",
     "color": "#6A4C93",
     "prefectura": "Osaka",
-    "descripcion": "",
+    "descripcion": "Representante de Osaka de estilo run-and-gun, veloz y agresivo. Liderado por Minami, ofrece a Shohoku un durísimo y físico enfrentamiento en el campeonato nacional.",
     "destacado": false
   }
 ]

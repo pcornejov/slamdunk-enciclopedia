@@ -1,0 +1,22 @@
+[
+  {
+    "slug": "instituto-shohoku",
+    "nombre": "Instituto Shohoku",
+    "descripcion": "El instituto protagonista, situado en la prefectura de Kanagawa. Hogar del club de baloncesto en torno al cual gira toda la historia y punto de encuentro de Sakuragi, Rukawa, Akagi y compañía."
+  },
+  {
+    "slug": "gimnasio-shohoku",
+    "nombre": "Gimnasio de Shohoku",
+    "descripcion": "El pabellón donde el equipo entrena a diario bajo la mirada del entrenador Anzai y la mánager Ayako. Escenario de los primeros pasos de Sakuragi con el balón y de innumerables sesiones de trabajo duro."
+  },
+  {
+    "slug": "kanagawa",
+    "nombre": "Prefectura de Kanagawa",
+    "descripcion": "Región donde se ambienta la mayor parte de la serie y sede del competitivo torneo clasificatorio en el que Shohoku se mide con Kainan, Ryonan y Shoyo por una plaza en el campeonato nacional."
+  },
+  {
+    "slug": "pabellon-nacional-hiroshima",
+    "nombre": "Sede del Campeonato Nacional (Hiroshima)",
+    "descripcion": "El gran escenario del torneo nacional Inter-High, donde Shohoku afronta a Toyotama y al todopoderoso Sannoh. El punto culminante del viaje del equipo."
+  }
+]
