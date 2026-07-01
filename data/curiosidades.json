@@ -1,0 +1,104 @@
+[
+  {
+    "id": "autor-inoue",
+    "categoria": "Autor",
+    "titulo": "Obra de Takehiko Inoue",
+    "texto": "Slam Dunk fue creado por Takehiko Inoue, quien escribió el guion y dibujó la totalidad del manga. Es una de las series que consagró a Inoue como uno de los mangakas más influyentes de Japón."
+  },
+  {
+    "id": "serializacion-jump",
+    "categoria": "Manga",
+    "titulo": "Publicado en la Weekly Shonen Jump",
+    "texto": "El manga se serializó en la revista Weekly Shonen Jump de la editorial Shueisha entre 1990 y 1996, y se recopiló en 31 tomos."
+  },
+  {
+    "id": "copias-vendidas",
+    "categoria": "Manga",
+    "titulo": "Más de 120 millones de copias",
+    "texto": "Slam Dunk es uno de los mangas más vendidos de la historia, con más de 120 millones de copias en circulación, lo que lo sitúa entre las franquicias de manga más exitosas."
+  },
+  {
+    "id": "impulso-baloncesto",
+    "categoria": "Cultura",
+    "titulo": "Impulsó el baloncesto en Japón",
+    "texto": "Se atribuye a Slam Dunk un enorme aumento de la popularidad del baloncesto entre la juventud japonesa durante los años 90, animando a muchos lectores a practicar este deporte."
+  },
+  {
+    "id": "anime-toei",
+    "categoria": "Anime",
+    "titulo": "101 episodios (1993-1996)",
+    "texto": "La adaptación al anime, producida por Toei Animation, se emitió en Japón entre 1993 y 1996 y constó de 101 episodios, además de varias películas cortas."
+  },
+  {
+    "id": "the-first-slam-dunk",
+    "categoria": "Anime",
+    "titulo": "The First Slam Dunk (2022)",
+    "texto": "En 2022 se estrenó la película The First Slam Dunk, escrita y dirigida por el propio Takehiko Inoue. Realizada con animación por computadora, fue un enorme éxito de taquilla en Japón y otros países."
+  },
+  {
+    "id": "final-sannoh",
+    "categoria": "Manga",
+    "titulo": "El legendario partido contra Sannoh",
+    "texto": "El clímax de la obra es el partido de Shohoku contra Sannoh Kogyo, el campeón nacional, considerado uno de los enfrentamientos deportivos más memorables del manga. La película The First Slam Dunk se centra precisamente en ese encuentro."
+  },
+  {
+    "id": "mano-izquierda",
+    "categoria": "Personajes",
+    "titulo": "«La mano izquierda solo acompaña»",
+    "texto": "La frase 「左手はそえるだけ」 («la mano izquierda solo acompaña») es uno de los consejos de tiro más recordados de la serie, asociado al aprendizaje de Hanamichi Sakuragi para dominar su lanzamiento."
+  },
+  {
+    "id": "nombres-nba",
+    "categoria": "Personajes",
+    "titulo": "Nombres inspirados en la NBA",
+    "texto": "Varios personajes evocan a jugadores reales de la NBA. El apellido de Kaede Rukawa remite a Kobe Bryant (nacido en la ciudad japonesa de Kobe), y otros diseños y estilos de juego se inspiran en estrellas de la liga estadounidense como Michael Jordan."
+  },
+  {
+    "id": "sakuragi-jordan",
+    "categoria": "Personajes",
+    "titulo": "Hanamichi Sakuragi y su transformación",
+    "texto": "El protagonista, Hanamichi Sakuragi, comienza sin saber nada de baloncesto y se une al club solo para impresionar a Haruko Akagi. Su evolución de delincuente novato a jugador clave es el eje central de la historia."
+  },
+  {
+    "id": "dorsal-10",
+    "categoria": "Personajes",
+    "titulo": "El dorsal 10 de Sakuragi",
+    "texto": "Sakuragi lleva el número 10 en Shohoku, un dorsal que se ha vuelto icónico y aparece constantemente en la iconografía de la serie."
+  },
+  {
+    "id": "gunma-inoue",
+    "categoria": "Autor",
+    "titulo": "Inoue, aficionado al baloncesto",
+    "texto": "Takehiko Inoue es un gran aficionado al baloncesto, pasión que se refleja en el detallado tratamiento del deporte en la obra y que continuó explorando en su posterior manga Real, centrado en el baloncesto en silla de ruedas."
+  },
+  {
+    "id": "vagabond-inoue",
+    "categoria": "Autor",
+    "titulo": "Del baloncesto a la katana",
+    "texto": "Tras Slam Dunk, Inoue creó Vagabond, una aclamada obra sobre el espadachín Miyamoto Musashi, demostrando su versatilidad más allá del manga deportivo."
+  },
+  {
+    "id": "shohoku-colores",
+    "categoria": "Cultura",
+    "titulo": "El rojo de Shohoku",
+    "texto": "El instituto Shohoku, equipo protagonista, se identifica con el color rojo, presente en sus uniformes y en buena parte de la estética de la franquicia."
+  },
+  {
+    "id": "rivalidad-rukawa",
+    "categoria": "Personajes",
+    "titulo": "La rivalidad Sakuragi-Rukawa",
+    "texto": "La tensa rivalidad entre Hanamichi Sakuragi y Kaede Rukawa, ambos de Shohoku, es uno de los grandes motores cómicos y dramáticos de la serie, pese a que juegan en el mismo equipo."
+  },
+  {
+    "id": "mensaje-toko",
+    "categoria": "Cultura",
+    "titulo": "El homenaje a los lectores",
+    "texto": "Slam Dunk mantiene una intensa conexión con sus seguidores. Con motivo del cierre de la serie, Inoue ha realizado a lo largo de los años distintos gestos de agradecimiento a los aficionados, reforzando el vínculo entre la obra y varias generaciones de lectores."
+  },
+  {
+    "id": "gorila-akagi",
+    "categoria": "Personajes",
+    "titulo": "Takenori Akagi, el capitán «Gori»",
+    "texto": "Takenori Akagi, capitán y pívot de Shohoku, es apodado «Gori» (gorila) por su corpulencia y carácter. Su objetivo de llevar a Shohoku al campeonato nacional impulsa buena parte de la trama."
+  }
+]

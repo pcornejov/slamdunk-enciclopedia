@@ -419,5 +419,44 @@
       "fuente": "web",
       "alt": "Sede del Campeonato Nacional — Hiroshima Green Arena"
     }
+  },
+  "ui": {
+    "hero": {
+      "principal": "https://static.wikia.nocookie.net/slamdunk/images/3/37/Slam_Dunk_-_Artwork_-_image_05.jpg",
+      "fuente": "web",
+      "alt": "Slam Dunk"
+    },
+    "banners": {
+      "shohoku": {
+        "principal": "https://static.wikia.nocookie.net/slamdunk/images/a/a8/Shohoku.png",
+        "fuente": "web",
+        "alt": "Shohoku"
+      },
+      "ryonan": {
+        "principal": "https://static.wikia.nocookie.net/slamdunk/images/6/67/RyonanHigh.png",
+        "fuente": "web",
+        "alt": "Ryonan"
+      },
+      "kainan": {
+        "principal": "https://static.wikia.nocookie.net/slamdunk/images/3/33/Takasago_-_Slam_Dunk_Artwork_03.png",
+        "fuente": "web",
+        "alt": "Kainan"
+      },
+      "shoyo": {
+        "principal": "https://static.wikia.nocookie.net/slamdunk/images/7/7f/Shoyo.jpg",
+        "fuente": "web",
+        "alt": "Shoyo"
+      },
+      "sannoh": {
+        "principal": "https://static.wikia.nocookie.net/slamdunk/images/1/12/Sannoh_Big_5.png",
+        "fuente": "web",
+        "alt": "Sannoh"
+      },
+      "toyotama": {
+        "principal": "https://static.wikia.nocookie.net/slamdunk/images/5/59/Toyotama_High.png",
+        "fuente": "web",
+        "alt": "Toyotama"
+      }
+    }
   }
 }

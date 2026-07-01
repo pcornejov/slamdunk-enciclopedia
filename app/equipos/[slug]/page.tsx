@@ -1,7 +1,12 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { getEquipo, getEquipos, getPersonajesDeEquipo } from "@/lib/data";
+import {
+  bannerEquipo,
+  getEquipo,
+  getEquipos,
+  getPersonajesDeEquipo,
+} from "@/lib/data";
 import TarjetaPersonaje from "../../components/TarjetaPersonaje";
 
 export function generateStaticParams() {
@@ -31,18 +36,42 @@ export default async function EquipoPage({
   if (!equipo) notFound();
 
   const jugadores = getPersonajesDeEquipo(equipo.slug);
+  const banner = bannerEquipo(equipo.slug);
 
   return (
     <div>
-      <div className="text-white" style={{ backgroundColor: equipo.color }}>
-        <div className="mx-auto max-w-6xl px-6 py-12">
+      <div
+        className="relative overflow-hidden text-white"
+        style={{ backgroundColor: equipo.color }}
+      >
+        {banner && (
+          <>
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img
+              src={banner}
+              alt=""
+              aria-hidden="true"
+              className="absolute inset-0 h-full w-full object-cover"
+            />
+            <div
+              className="absolute inset-0 opacity-80 mix-blend-multiply"
+              style={{ backgroundColor: equipo.color }}
+              aria-hidden="true"
+            />
+            <div
+              className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent"
+              aria-hidden="true"
+            />
+          </>
+        )}
+        <div className="relative mx-auto max-w-6xl px-6 py-14">
           <Link
             href="/equipos"
             className="mb-4 inline-block text-sm text-white/80 hover:underline"
           >
             ← Volver a equipos
           </Link>
-          <h1 className="text-4xl font-black">{equipo.nombre}</h1>
+          <h1 className="text-4xl font-black drop-shadow-sm">{equipo.nombre}</h1>
           <p className="mt-1 text-lg text-white/80">
             {equipo.nombreJp} · {equipo.prefectura}
           </p>

@@ -70,6 +70,13 @@ export interface Locacion {
   descripcion: string;
 }
 
+export interface Curiosidad {
+  id: string;
+  categoria: string;
+  titulo: string;
+  texto: string;
+}
+
 export interface ImagenEntrada {
   principal?: string;
   galeria?: string[];
@@ -81,6 +88,10 @@ interface ManifiestoImagenes {
   personajes: Record<string, ImagenEntrada>;
   equipos: Record<string, ImagenEntrada>;
   locaciones: Record<string, ImagenEntrada>;
+  ui?: {
+    hero?: ImagenEntrada;
+    banners?: Record<string, ImagenEntrada>;
+  };
 }
 
 interface RawPersonaje {
@@ -150,6 +161,10 @@ export function getLocaciones(): Locacion[] {
   return leerJson<Locacion[]>("locaciones.json", []);
 }
 
+export function getCuriosidades(): Curiosidad[] {
+  return leerJson<Curiosidad[]>("curiosidades.json", []);
+}
+
 // Anime / Manga: objetos libres, se tipan de forma laxa donde se usen.
 export function getAnime(): Record<string, unknown> {
   return leerJson<Record<string, unknown>>("_raw/anime.json", {});
@@ -193,4 +208,14 @@ export function imagenEquipo(slug: string): string {
 /** Imagen de una locación: manifiesto → placeholder. */
 export function imagenLocacion(slug: string): string {
   return manifiesto.locaciones[slug]?.principal ?? PLACEHOLDER;
+}
+
+/** Imagen de fondo del hero de la home. `null` si aún no existe. */
+export function imagenHero(): string | null {
+  return manifiesto.ui?.hero?.principal ?? null;
+}
+
+/** Banner de cabecera de un equipo. `null` si aún no existe. */
+export function bannerEquipo(slug: string): string | null {
+  return manifiesto.ui?.banners?.[slug]?.principal ?? null;
 }

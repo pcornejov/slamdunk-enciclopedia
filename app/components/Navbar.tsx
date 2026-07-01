@@ -9,6 +9,7 @@ const enlaces = [
   { href: "/manga", texto: "Manga" },
   { href: "/anime", texto: "Anime" },
   { href: "/locaciones", texto: "Locaciones" },
+  { href: "/curiosidades", texto: "Curiosidades" },
 ];
 
 export default function Navbar() {

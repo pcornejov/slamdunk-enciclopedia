@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { getPersonajes } from "@/lib/data";
+import { getPersonajes, imagenHero } from "@/lib/data";
 import TarjetaPersonaje from "./components/TarjetaPersonaje";
 
 const secciones = [
@@ -9,41 +9,58 @@ const secciones = [
   { href: "/manga", titulo: "Manga", desc: "La obra de Takehiko Inoue." },
   { href: "/anime", titulo: "Anime", desc: "Serie, películas y OVAs." },
   { href: "/locaciones", titulo: "Locaciones", desc: "Los escenarios de la historia." },
+  { href: "/curiosidades", titulo: "Curiosidades", desc: "Datos reales del manga y su autor." },
 ];
 
 export default function Home() {
   const destacados = getPersonajes().filter((p) => p.destacado).slice(0, 12);
+  const hero = imagenHero();
 
   return (
     <div>
       {/* Hero */}
-      <section className="bg-gradient-to-b from-red-700 to-red-900 text-white">
-        <div className="mx-auto max-w-6xl px-6 py-20 text-center">
-          <span className="mb-4 inline-block rounded-full border border-white/30 px-4 py-1 text-sm uppercase tracking-widest">
+      <section className="relative overflow-hidden bg-gradient-to-b from-red-700 to-red-900 text-white">
+        {hero && (
+          <>
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img
+              src={hero}
+              alt=""
+              aria-hidden="true"
+              className="absolute inset-0 h-full w-full object-cover"
+            />
+            <div
+              className="absolute inset-0 bg-gradient-to-b from-red-900/80 via-red-800/70 to-red-950/90"
+              aria-hidden="true"
+            />
+          </>
+        )}
+        <div className="relative mx-auto max-w-6xl px-6 py-24 text-center sm:py-28">
+          <span className="mb-5 inline-block rounded-full border border-white/30 bg-black/10 px-4 py-1 text-sm font-medium uppercase tracking-widest backdrop-blur-sm">
             #10 · Shohoku
           </span>
-          <h1 className="text-4xl font-black tracking-tight sm:text-6xl">
+          <h1 className="text-4xl font-black tracking-tight drop-shadow-sm sm:text-6xl">
             Enciclopedia Slam Dunk
           </h1>
-          <p className="mx-auto mt-4 max-w-2xl text-lg text-red-100">
+          <p className="mx-auto mt-5 max-w-2xl text-lg text-red-50/90">
             Personajes, equipos, arcos argumentales, manga y anime del clásico
             del baloncesto de Takehiko Inoue.
           </p>
-          <div className="mt-8 flex flex-wrap justify-center gap-3">
+          <div className="mt-9 flex flex-wrap justify-center gap-3">
             <Link
               href="/personajes"
-              className="rounded-full bg-white px-6 py-2.5 font-semibold text-red-800 transition hover:bg-red-100"
+              className="rounded-full bg-white px-6 py-2.5 font-semibold text-red-800 shadow-lg transition hover:bg-red-100"
             >
               Ver personajes
             </Link>
             <Link
               href="/equipos"
-              className="rounded-full border border-white/50 px-6 py-2.5 font-semibold transition hover:bg-white/10"
+              className="rounded-full border border-white/50 px-6 py-2.5 font-semibold backdrop-blur-sm transition hover:bg-white/10"
             >
               Ver equipos
             </Link>
           </div>
-          <p className="mt-8 text-sm text-red-200/80">「左手はそえるだけ」</p>
+          <p className="mt-10 text-sm text-red-200/80">「左手はそえるだけ」</p>
         </div>
       </section>
 
